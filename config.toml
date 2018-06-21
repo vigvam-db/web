@@ -1,0 +1,6 @@
+baseURL = "http://example.org/"
+languageCode = "cs-cz"
+title = "VIGVAM"
+
+contentDir = "content/"
+defaultContentLanguage = "cs"

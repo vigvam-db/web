@@ -1,0 +1,232 @@
+html, body {
+    font-family: 'Roboto', sans-serif;
+    color: #555;
+    overflow-x: hidden;
+}
+
+#nav-toggle {
+    font-size: 1rem;
+    height: 1em;
+    padding: calc((3rem - 1em) / 2);
+    text-align: center;
+}
+#nav-toggle .text {
+    font-size: 1em;
+    font-weight: bold;
+}
+#nav-toggle .icon {
+    width: 1em;
+    font-size: 1em;
+    position: absolute;
+    top: calc((3rem - 1em) / 2);
+    left: 1em;
+}
+nav {
+    display: none;
+    background-color: white;
+}
+nav.open {
+    display: block;
+}
+nav a {
+    text-decoration: none;
+    /* font-weight: bold; */
+    color: #777;
+}
+nav a:hover {
+    color: #000;
+}
+nav li {
+    padding: .5rem 1rem;
+    background-color: white;
+    border-top: 1px solid #DDD;
+    cursor: pointer;
+}
+nav li:last-child {
+    border-bottom: 1px solid #DDD;
+}
+nav ul li.dropdown.open {
+    background-color: #EEE;
+}
+nav ul li.dropdown > ul {
+    margin: .5rem 0 0 -1rem;
+    width: calc(100% + 2rem);
+}
+nav ul li.dropdown > ul > li {
+    border: none;
+    background-color: transparent;
+    margin-left: 1rem;
+    font-size: .9rem;
+}
+nav .logo {
+    display: none;
+}
+nav .social {
+    text-align: center;
+    padding: 1rem;
+    word-spacing: .5em;
+    color: #777;
+}
+nav .social i:hover {
+    color: #000;
+}
+
+.banner {
+    width: 100vw;
+    background-color: #333;
+    background-image: linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)), url(../images/bg.jpg);
+    background-position: 50% 30%;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.banner .text {
+    font-size: 4rem;
+    color: white;
+    padding: 8rem 1rem;
+    font-weight: 100;
+    text-align: center;
+}
+
+.text-block {
+    color: #555;
+    padding: 1rem 2rem;
+}
+.text-block p {
+    margin: 0 auto;
+    max-width: 600px;
+    line-height: 1.2em;
+}
+.text-block p + p {
+    margin: .7rem auto;
+}
+.text-block + .text-block::before {
+    content: "";
+    display: block;
+    height: 1px;
+    width: 100%;
+    background-color: #DDD;
+    margin-bottom: 2rem;
+}
+.text-block .header {
+    font-size: 2rem;
+    margin: 1rem;
+}
+.text-block a {
+    color: #4C0;
+}
+.text-block a:hover {
+    color: #390;
+}
+
+.center {
+    text-align: center;
+}
+.b {
+    font-weight: bold;
+}
+
+footer::before {
+    content: "";
+    display: block;
+    height: 1px;
+    width: 100%;
+    background-color: #DDD;
+    margin-bottom: 2rem;
+}
+footer > .text-block {
+    padding-top: 0;
+}
+footer > .text-block > .group > .item {
+    display: inline-block;
+    height: 10rem;
+    max-width: 30vw;
+    padding: 0 1rem;
+    overflow: visible;
+}
+footer > .text-block > .group {
+    display: grid;
+    grid-template-columns: 2fr 1fr 2fr;
+    max-width: 600px;
+    margin: 1rem auto;
+}
+#brezanek {
+    grid-column: 1;
+}
+#db {
+    grid-column: 2;
+}
+#ric {
+    grid-column: 3;
+}
+footer > .text-block > .group > .item > img {
+    width: 100%;
+}
+footer > .text-block > .group > .item > .text {
+    font-size: .8rem;
+}
+
+
+@media (min-width:600px) {
+    
+}
+@media (min-width:900px) {
+    #nav-toggle {
+        display: none;
+    }
+    nav {
+        display: block;
+    }
+    nav > ul > li {
+        border-top: none;
+        padding: 1rem;
+    }
+    nav > ul > li:last-child {
+        border-bottom: none;
+    }
+    nav ul li.dropdown > ul {
+        width: auto;
+        z-index: 90;
+        display: block;
+        max-height: 0;
+        overflow: hidden;
+        transition: max-height 1s, opacity .1s;
+        background-color: white;
+        margin-top: 1rem;
+        opacity: 0;
+    }
+    nav ul li.dropdown:hover > ul {
+        max-height: 100%;
+        z-index: 100;
+        opacity: 1;
+    }
+    nav ul li.dropdown.open > ul {
+        position: absolute;
+    }
+    nav ul li.dropdown.open {
+        background-color: white;
+    }
+    nav ul li.dropdown > ul > li {
+        margin: 0;
+    }
+    nav .logo {
+        display: block;
+        float: left;
+        overflow: hidden;
+        height: 3rem;
+    }
+    nav .logo img {
+        height: 4.5rem;
+        margin-left: 1rem;
+        position: relative;
+        top: -.25rem;
+    }
+    nav .social {
+        text-align: right;
+    }
+}
+@media (min-width:1200px) {
+    
+}
+@media (min-width:1800px) {
+    
+}

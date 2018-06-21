@@ -1,0 +1,31 @@
+nav > ul > li {
+    float: none;
+}
+li.dropdown > ul {
+    display: none;
+}
+nav ul li.dropdown.open > ul {
+    position: relative;
+    display: block;
+}
+nav + * {
+    clear: both;
+}
+
+@media (min-width:900px) {
+    nav > ul > li {
+        float: left;
+    }
+    li.dropdown > ul {
+        display: none;
+    }
+    nav ul li.dropdown > ul {
+        position: absolute;
+    }
+    nav ul li.dropdown:hover > ul {
+        display: block;
+    }
+    nav + * {
+        clear: both;
+    }
+}
