@@ -1,6 +1,6 @@
 html, body {
     font-family: 'Roboto', sans-serif;
-    color: #555;
+    color: #000;
     overflow-x: hidden;
 }
 
@@ -24,23 +24,45 @@ html, body {
 nav {
     display: none;
     background-color: white;
+    user-select: none;
 }
 nav.open {
     display: block;
 }
 nav a {
     text-decoration: none;
-    /* font-weight: bold; */
-    color: #777;
+    color: #555;
 }
 nav a:hover {
     color: #000;
 }
 nav li {
-    padding: .5rem 1rem;
+    padding: .7rem 1rem;
     background-color: white;
     border-top: 1px solid #DDD;
     cursor: pointer;
+}
+nav li.button {
+    text-align: center;
+}
+nav li button {
+    background-color: white;
+    height: 3rem;
+    border: 2px solid #43c552;
+    font-size: 1.2rem;
+    line-height: 1rem;
+    padding: 0 1rem;
+    color: #43c552;
+    font-weight: bold;
+    border-radius: .5rem;
+    transition: background-color .2s;
+    cursor: pointer;
+}
+nav li button:hover {
+    background-color: #e3f6e5;
+}
+nav li.button {
+    cursor: auto;
 }
 nav li:last-child {
     border-bottom: 1px solid #DDD;
@@ -84,6 +106,7 @@ nav .social i:hover {
     color: white;
     padding: 8rem 1rem;
     font-weight: 100;
+    user-select: none;
     text-align: center;
 }
 
@@ -176,9 +199,14 @@ footer > .text-block > .group > .item > .text {
     nav {
         display: block;
     }
+    nav ul {
+        float: right;
+    }
     nav > ul > li {
         border-top: none;
-        padding: 1rem;
+        padding: 2rem 1rem;
+        line-height: 1rem;
+        font-size: 1.1rem;
     }
     nav > ul > li:last-child {
         border-bottom: none;
@@ -186,39 +214,48 @@ footer > .text-block > .group > .item > .text {
     nav ul li.dropdown > ul {
         width: auto;
         z-index: 90;
-        display: block;
-        max-height: 0;
+        display: none;
         overflow: hidden;
-        transition: max-height 1s, opacity .1s;
         background-color: white;
-        margin-top: 1rem;
-        opacity: 0;
+        margin-top: 2rem;
+        max-width: 15rem;
+    }
+    nav ul li.dropdown:hover {
+        box-shadow: .1rem 0 0 inset #43c552;
     }
     nav ul li.dropdown:hover > ul {
-        max-height: 100%;
         z-index: 100;
-        opacity: 1;
+        display: block;
+        border-left: .1rem solid #43c552;
     }
     nav ul li.dropdown.open > ul {
         position: absolute;
+        display: none;
+    }
+    nav ul li.dropdown.open:hover > ul {
+        display: block;
     }
     nav ul li.dropdown.open {
         background-color: white;
     }
     nav ul li.dropdown > ul > li {
         margin: 0;
+        font-size: 1rem;
     }
     nav .logo {
         display: block;
         float: left;
         overflow: hidden;
-        height: 3rem;
+        height: 5rem;
     }
     nav .logo img {
-        height: 4.5rem;
+        height: 6.5rem;
         margin-left: 1rem;
         position: relative;
         top: -.25rem;
+    }
+    nav li button {
+        margin: -1rem 0;
     }
     nav .social {
         text-align: right;
