@@ -208,6 +208,9 @@ footer > .text-block > .group > .item > .text {
         line-height: 1rem;
         font-size: 1.1rem;
     }
+    nav > ul > li:not(.button):hover {
+        box-shadow: .1rem 0 0 inset #43c552;
+    }
     nav > ul > li:last-child {
         border-bottom: none;
     }
