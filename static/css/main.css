@@ -83,15 +83,6 @@ nav ul li.dropdown > ul > li {
 nav .logo {
     display: none;
 }
-nav .social {
-    text-align: center;
-    padding: 1rem;
-    word-spacing: .5em;
-    color: #777;
-}
-nav .social i:hover {
-    color: #000;
-}
 
 .banner {
     width: 100vw;
@@ -113,13 +104,14 @@ nav .social i:hover {
 .text-block {
     color: #555;
     padding: 1rem 2rem;
+    margin: 0 auto
 }
-.text-block p {
-    margin: 0 auto;
+.text-block * {
     max-width: 600px;
+    margin: 0 auto;
     line-height: 1.2em;
 }
-.text-block p + p {
+.text-block * + * {
     margin: .7rem auto;
 }
 .text-block + .text-block::before {
@@ -132,13 +124,12 @@ nav .social i:hover {
 }
 .text-block .header {
     font-size: 2rem;
-    margin: 1rem;
 }
 .text-block a {
-    color: #4C0;
+    color: #43c552;
 }
 .text-block a:hover {
-    color: #390;
+    color: #32943e;
 }
 
 .center {
@@ -159,18 +150,12 @@ footer::before {
 footer > .text-block {
     padding-top: 0;
 }
-footer > .text-block > .group > .item {
-    display: inline-block;
-    height: 10rem;
-    max-width: 30vw;
-    padding: 0 1rem;
-    overflow: visible;
-}
-footer > .text-block > .group {
+footer .group {
     display: grid;
     grid-template-columns: 2fr 1fr 2fr;
-    max-width: 600px;
-    margin: 1rem auto;
+}
+footer .group .item img {
+    width: 100%;
 }
 #brezanek {
     grid-column: 1;
@@ -181,11 +166,12 @@ footer > .text-block > .group {
 #ric {
     grid-column: 3;
 }
-footer > .text-block > .group > .item > img {
-    width: 100%;
+.social {
+    word-spacing: .5em;
+    color: #43c552;
 }
-footer > .text-block > .group > .item > .text {
-    font-size: .8rem;
+.social i:hover {
+    color: #32943e;
 }
 
 
@@ -260,8 +246,22 @@ footer > .text-block > .group > .item > .text {
     nav li button {
         margin: -1rem 0;
     }
-    nav .social {
-        text-align: right;
+
+    footer .text-block {
+        display: grid;
+        grid-template-columns: auto auto;
+        max-width: 100vw;
+    }
+    footer .text-block .left {
+        grid-column: 1;
+        margin: 0 0 0 auto;
+    }
+    footer .text-block .right {
+        grid-column: 2;
+        margin: 0 auto 0 1rem;
+    }
+    footer .group .item {
+        padding: 1rem
     }
 }
 @media (min-width:1200px) {
