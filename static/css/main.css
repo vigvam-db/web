@@ -45,20 +45,20 @@ nav li {
 nav li.button {
     text-align: center;
 }
-nav li button {
+nav li.button > a {
     background-color: white;
-    height: 3rem;
     border: 2px solid #43c552;
     font-size: 1.2rem;
     line-height: 1rem;
-    padding: 0 1rem;
+    padding: 1rem 1rem;
     color: #43c552;
     font-weight: bold;
     border-radius: .5rem;
     transition: background-color .2s;
     cursor: pointer;
+    display: inline-block;
 }
-nav li button:hover {
+nav li.button > a:hover {
     background-color: #e3f6e5;
 }
 nav li.button {
@@ -200,6 +200,9 @@ footer .group .item img {
     nav > ul > li:last-child {
         border-bottom: none;
     }
+    nav li.button > a {
+        margin: calc(-1rem - 4px) 0;
+    }
     nav ul li.dropdown > ul {
         width: auto;
         z-index: 90;
@@ -243,7 +246,7 @@ footer .group .item img {
         position: relative;
         top: -.25rem;
     }
-    nav li button {
+    nav li a.button {
         margin: -1rem 0;
     }
 
