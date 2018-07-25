@@ -101,13 +101,43 @@ nav .logo {
     text-align: center;
 }
 
+.image-text-block {
+    margin: 2rem auto;
+    padding: 1rem;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    max-width: 38rem;
+}
+.image-text-block .text {
+    order: 0;
+    margin: 1rem 0;
+    line-height: 1.5em;
+}
+.image-text-block .text h2 {
+    font-size: 2rem;
+    line-height: 1.3em;
+    margin-bottom: .3em;
+}
+.image-text-block .img {
+    order: -1;
+    max-height: 60vh;
+    min-height: 8rem;
+    overflow: hidden;
+    border-radius: .8rem;
+}
+.image-text-block .img img {
+    max-width: 100%;
+    border-radius: .8rem;
+}
+
 .text-block {
     color: #555;
     padding: 1rem 2rem;
     margin: 0 auto
 }
 .text-block * {
-    max-width: 600px;
+    max-width: 38rem;
     margin: 0 auto;
     line-height: 1.2em;
 }
@@ -268,6 +298,28 @@ footer #partners #ric {
     }
     nav li a.button {
         margin: -1rem 0;
+    }
+
+    .image-text-block {
+        flex-wrap: nowrap;
+        max-width: 65rem;
+    }
+    .image-text-block .text {
+        margin: 0 0 0 2rem;
+        flex-basis: 50%;
+    }
+    .image-text-block:nth-of-type(2n) .text {
+        margin: 0 2rem 0 0;
+    }
+    .image-text-block .img {
+        flex-basis: 50%;
+        max-height: 100%;
+    }
+    .image-text-block:nth-of-type(2n) .img {
+        order: 1;
+    }
+    .image-text-block .img img {
+        max-width: 100%;
     }
 
     footer .text-block {
