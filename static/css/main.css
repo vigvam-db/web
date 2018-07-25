@@ -147,14 +147,18 @@ footer::before {
     background-color: #DDD;
     margin-bottom: 2rem;
 }
+footer {
+    background-color: #ddd;
+}
 footer > .text-block {
     padding-top: 0;
 }
-footer .group {
+footer #partners {
     display: grid;
     grid-template-columns: 2fr 1fr 2fr;
+    background-color: white
 }
-footer .group .item img {
+footer #partners .item img {
     width: 100%;
 }
 #brezanek {
