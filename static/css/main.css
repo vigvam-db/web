@@ -154,21 +154,32 @@ footer > .text-block {
     padding-top: 0;
 }
 footer #partners {
-    display: grid;
-    grid-template-columns: 2fr 1fr 2fr;
-    background-color: white
+    background-color: white;
+}
+footer #partners p {
+    padding-top: 1rem;
+    flex-basis: 100%;
 }
 footer #partners .item img {
     width: 100%;
 }
-#brezanek {
-    grid-column: 1;
+footer #partners .flexbox {
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    margin: 0;
 }
-#db {
-    grid-column: 2;
+footer #partners #brezanek {
+    order: 1;
+    flex-grow: 2;
 }
-#ric {
-    grid-column: 3;
+footer #partners #db {
+    order: 2;
+    flex-grow: 1;
+}
+footer #partners #ric {
+    order: 3;
+    flex-grow: 2;
 }
 .social {
     word-spacing: .5em;
@@ -260,16 +271,17 @@ footer #partners .item img {
     }
 
     footer .text-block {
-        display: grid;
-        grid-template-columns: auto auto;
+        display: flex;
+        justify-content: center;
+        /* align-items: ; */
         max-width: 100vw;
     }
     footer .text-block .left {
-        grid-column: 1;
+        order: 1;
         margin: 0 0 0 auto;
     }
     footer .text-block .right {
-        grid-column: 2;
+        order: 2;
         margin: 0 auto 0 1rem;
     }
     footer .group .item {
