@@ -4,3 +4,5 @@ title = "VIGVAM"
 
 contentDir = "content/"
 defaultContentLanguage = "cs"
+
+enableRobotsTXT = true
