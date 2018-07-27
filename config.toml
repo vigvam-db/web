@@ -6,3 +6,4 @@ contentDir = "content/"
 defaultContentLanguage = "cs"
 
 enableRobotsTXT = true
+EnableGitInfo = true
