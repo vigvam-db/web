@@ -2,4 +2,4 @@
 title: "Co nabízíme pro dospělé"
 ---
 
-Představujeme vám činnost klubu pro teenagery.
+Představujeme vám činnost klubu pro dospělé.
