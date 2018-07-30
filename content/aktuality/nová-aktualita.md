@@ -1,5 +1,5 @@
 ---
 title: Nová aktualita
-weight: 100
+weight: 10
 ---
-Tahle je nová.
+Tahle je nová. A je vždycky nahoře.
