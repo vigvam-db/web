@@ -10,7 +10,7 @@ collections:
   - name: "aktuality" # Used in routes, ie.: /admin/collections/:slug/edit
     label: "Aktuality" # Used in the UI, ie.: "New Post"
     create: true
-    folder:
+    folder: "content/aktuality"
     fields:
       - {label: "Nadpis", name: "title", widget: "string"}
       - {label: "Obrázek", name: "thumbnail", widget: "image", required: false}
