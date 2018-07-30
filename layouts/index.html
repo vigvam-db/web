@@ -1,0 +1,13 @@
+{{ define "main" }}
+  <div>
+    {{ range .Site.RegularPages }}
+        {{ if eq .Section "aktuality"}}
+            <div class="text-block text">
+                <h2>{{ .Title }}</h2>
+                {{ .Content }}
+                <div class="lastmod">(Poslední aktualizace: {{ .Lastmod.Format "2.1.2006" }})</div>
+            </div>
+        {{ end }}
+    {{ end }}
+</div>
+{{end}}
