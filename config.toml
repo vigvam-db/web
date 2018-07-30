@@ -5,5 +5,7 @@ title = "VIGVAM"
 contentDir = "content/"
 defaultContentLanguage = "cs"
 
+disableKinds = ["RSS", "taxonomy", "taxonomyTerm"]
+
 enableRobotsTXT = true
 EnableGitInfo = true
