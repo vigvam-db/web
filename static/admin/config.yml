@@ -7,20 +7,84 @@ media_folder: "static/images/uploads" # Media files will be stored in the repo u
 public_folder: "/images/uploads" # The src attribute for uploaded media will begin with /images/uploads
 
 collections:
+  - name: "aktuality" # Used in routes, ie.: /admin/collections/:slug/edit
+    label: "Aktuality" # Used in the UI, ie.: "New Post"
+    create: true
+    folder:
+    fields:
+      - {label: "Nadpis", name: "title", widget: "string"}
+      - {label: "Obrázek", name: "thumbnail", widget: "image", required: false}
+      - {label: "Pořadí", name: "weight", widget: "number", default: 100, valueType: int, min: 1, max: 1000}
+      - {label: "Text", name: "body", widget: "markdown"}
   - name: "teen" # Used in routes, ie.: /admin/collections/:slug/edit
     label: "Teen" # Used in the UI, ie.: "New Post"
     files:
       - file: "content/teen/predstaveni-cinnosti.md"
         label: "Představení činnosti"
-        name: "predstaveni"
+        name: "predstaveni-cinnosti"
         fields:
           - {label: "Nadpis", name: "title", widget: "string"}
-          - {label: "Podnadpis", name: "subtitle", widget: "string"}
           - {label: "Text", name: "body", widget: "markdown"}
       - file: "content/teen/kurzy-a-akce.md"
         label: "Kurzy a akce"
         name: "kurzy-a-akce"
         fields:
           - {label: "Nadpis", name: "title", widget: "string"}
-          - {label: "Podnadpis", name: "subtitle", widget: "string"}
+          - {label: "Text", name: "body", widget: "markdown"}
+  - name: "dospeli" # Used in routes, ie.: /admin/collections/:slug/edit
+    label: "Dospělí" # Used in the UI, ie.: "New Post"
+    files:
+      - file: "content/dospeli/predstaveni-cinnosti.md"
+        label: "Představení činnosti"
+        name: "predstaveni-cinnosti"
+        fields:
+          - {label: "Nadpis", name: "title", widget: "string"}
+          - {label: "Text", name: "body", widget: "markdown"}
+      - file: "content/dospeli/kurzy-a-akce.md"
+        label: "Kurzy a akce"
+        name: "kurzy-a-akce"
+        fields:
+          - {label: "Nadpis", name: "title", widget: "string"}
+          - {label: "Text", name: "body", widget: "markdown"}
+  - name: "seniori" # Used in routes, ie.: /admin/collections/:slug/edit
+    label: "Senioři" # Used in the UI, ie.: "New Post"
+    files:
+      - file: "content/seniori/predstaveni-cinnosti.md"
+        label: "Představení činnosti"
+        name: "predstaveni-cinnosti"
+        fields:
+          - {label: "Nadpis", name: "title", widget: "string"}
+          - {label: "Text", name: "body", widget: "markdown"}
+      - file: "content/seniori/kurzy-a-akce.md"
+        label: "Kurzy a akce"
+        name: "kurzy-a-akce"
+        fields:
+          - {label: "Nadpis", name: "title", widget: "string"}
+          - {label: "Text", name: "body", widget: "markdown"}
+  - name: "o-nas" # Used in routes, ie.: /admin/collections/:slug/edit
+    label: "O nás" # Used in the UI, ie.: "New Post"
+    files:
+      - file: "content/o-nas/kdo-jsme.md"
+        label: "Kdo jsme"
+        name: "kdo-jsme"
+        fields:
+          - {label: "Nadpis", name: "title", widget: "string"}
+          - {label: "Text", name: "body", widget: "markdown"}
+      - file: "content/o-nas/dokumenty.md"
+        label: "Dokumenty"
+        name: "dokumenty"
+        fields:
+          - {label: "Nadpis", name: "title", widget: "string"}
+          - {label: "Text", name: "body", widget: "markdown"}
+      - file: "content/o-nas/zasady-ou.md"
+        label: "Zásady zprac. OÚ"
+        name: "zasady-ou"
+        fields:
+          - {label: "Nadpis", name: "title", widget: "string"}
+          - {label: "Text", name: "body", widget: "markdown"}
+      - file: "content/o-nas/kontakty.md"
+        label: "Kontakty"
+        name: "kontakty"
+        fields:
+          - {label: "Nadpis", name: "title", widget: "string"}
           - {label: "Text", name: "body", widget: "markdown"}
