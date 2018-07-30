@@ -1,5 +1,5 @@
 ---
-title: 'Ještě čerstvější aktuality, že.'
+title: 'Ještě čerstvější aktualita, že.'
 thumbnail: /images/uploads/vence-2017.jpg
 weight: 100
 ---
