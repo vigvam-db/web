@@ -90,18 +90,15 @@ html, body {
 }
 .text table {
     margin: 1rem 0;
-    border-radius: .7rem;
-    border-collapse: separate;
-    border: .15rem #43c552 solid;
 }
 .text table caption {
     font-style: italic;
 }
 .text table tr:first-child th:first-child, .text table tr:first-child td:first-child  {
-    border-radius: .4rem 0 0 0;
+    border-radius: .6rem 0 0 0;
 }
 .text table tr:first-child th:last-child, .text table tr:first-child td:last-child  {
-    border-radius: 0 .4rem 0 0;
+    border-radius: 0 .6rem 0 0;
 }
 .text table tr:last-child th:first-child, .text table tr:last-child td:first-child  {
     border-radius: 0 0 0 .6rem;
@@ -122,12 +119,6 @@ html, body {
 .text table tr th {
     background-color: #43c552;
     color: white;
-}
-.text table tr:nth-child(2n+1) th {
-        
-}
-.text table tr:nth-child(2n) th {
-        
 }
 
 #nav-toggle {
