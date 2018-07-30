@@ -6,14 +6,15 @@ backend:
 media_folder: "static/images/uploads" # Media files will be stored in the repo under static/images/uploads
 public_folder: "/images/uploads" # The src attribute for uploaded media will begin with /images/uploads
 
+slug:
+  encoding: "ascii"
+  clean_accents: true
+
 collections:
   - name: "aktuality" # Used in routes, ie.: /admin/collections/:slug/edit
     label: "Aktuality" # Used in the UI, ie.: "New Post"
     create: true
     folder: "content/aktuality"
-    slug:
-      encoding: "ascii"
-      clean_accents: true
     fields:
       - {label: "Nadpis", name: "title", widget: "string"}
       - {label: "Obrázek", name: "thumbnail", widget: "image", required: false}
