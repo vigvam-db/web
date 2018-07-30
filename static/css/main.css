@@ -13,13 +13,20 @@ html, body {
 .i {
     font-style: italic;
 }
+
+.lastmod {
+    font-style: italic;
+    font-size: 0.7rem;
+    color: #555;
+}
+
 .text {
     line-height: 1.5em;
 }
 .text p {
     color: #000;
     line-height: 1.5em;
-    margin: 1rem 0;
+    /*margin: 1rem 0;*/margin-bottom: 1rem;
 }
 .text a.link {
     text-decoration: none;

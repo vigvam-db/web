@@ -1,10 +1,10 @@
 {{ define "main" }}
   <div>
     {{ range .Pages }}
-        <div class="text-block">
+        <div class="text-block text">
             <h2>{{ .Title }}</h2>
             {{ .Content }}
-            <div>Poslední aktualizace: {{ .Lastmod.Format "2.1.2006 15:04" }}</div>
+            <div class="lastmod">(Poslední aktualizace: {{ .Lastmod.Format "2.1.2006 15:04" }})</div>
         </div>
     {{ end }}
 </div>
