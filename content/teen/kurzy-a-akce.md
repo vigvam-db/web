@@ -1,8 +1,4 @@
 ---
-title: "Kurzy a akce pro teenagery"
-draft: false
+title: Kurzy a akce pro teenagery
 ---
-
-Kurzy a akce pro teenagery najdete v našem rezervačním systému.
-
-Žluťoučký kůň úpěl ďábelské ódy.
+Kurzy a akce pro teenagery najdete v našem [rezervačním systému](https://brezanek.webooker.eu/).
