@@ -1,0 +1,7 @@
+{{ define "main" }}
+	<div class="text-block text">
+		<h1>{{ .Title }}</h1>
+		{{ .Content }}
+		<div class="lastmod">(Poslední aktualizace: {{ .Lastmod.Format "2.1.2006" }})</div>
+	</div>
+{{ end }}
