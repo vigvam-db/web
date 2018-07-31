@@ -7,10 +7,10 @@ html, body {
 .center {
     text-align: center;
 }
-.b {
+.text b, .b {
     font-weight: bold;
 }
-.i {
+.text i, .i {
     font-style: italic;
 }
 
@@ -26,14 +26,17 @@ html, body {
 .text p {
     color: #000;
     line-height: 1.5em;
-    /*margin: 1rem 0;*/margin-bottom: 1rem;
+    margin-bottom: 1rem;
 }
-.text a.link {
+.text a {
     text-decoration: none;
     color: #43c552;
 }
-.text a.link:hover {
+.text a:hover {
     text-decoration: underline;
+    color: #32943e;
+}
+.text a:visited {
     color: #32943e;
 }
 .text h1 {
@@ -55,69 +58,79 @@ html, body {
     margin-bottom: .5rem;
 }
 /* h3 ... ? */
-.text .q {
+.text quote, .text .q {
     margin: 1rem 0 1rem .5rem;
     border-left: #BBB .2rem solid;
     padding-left: .5rem;
 }
-.text .list {
-    margin: 1rem 0;
+.text ul, .text ol, .text .list {
+    margin-bottom: 1rem;
 }
-.text ul.list > li {
+.text ul > li {
     margin-left: 1.5rem;
     margin-bottom: .3rem;
     list-style-type: disc;
 }
-.text ol.list > li {
+.text ol > li {
     margin-left: 1.3rem;
     padding-left: .2rem;
     margin-bottom: .3rem;
     list-style-type: decimal;
 }
-.text .list > li > .list {
-    margin: .3rem 0;
+.text ol > li > ol,
+.text ol > li > ul,
+.text ul > li > ol,
+.text ul > li > ul {
+    margin-bottom: .3rem;
 }
-.text .list + .list {
+.text ol + ol,
+.text ol + ul,
+.text ul + ol,
+.text ul + ul {
     margin-top: 2rem;
 }
-.text .code {
+.text code, .text samp, .text kbd, .text var, .text .code {
     background-color: #DDD;
     border-radius: .3em;
     font-family: monospace;
     padding: .2em;
-    margin: -.2em 0;
+    margin-bottom: -.2em;
 }
-.text .code-block {
+.text pre, .text .code-block {
     background-color: #DDD;
     font-family: monospace;
     padding: 1em;
-    margin: 1rem 0;
+    margin-bottom: 1rem;
     overflow-x: auto;
     border-radius: .5rem;
 }
 .text table {
-    margin: 1rem 0;
+    margin-bottom: 1rem;
 }
 .text table caption {
     font-style: italic;
 }
-.text table tr:first-child th:first-child, .text table tr:first-child td:first-child  {
+.text table tr:first-child th:first-child,
+.text table tr:first-child td:first-child  {
     border-radius: .6rem 0 0 0;
 }
-.text table tr:first-child th:last-child, .text table tr:first-child td:last-child  {
+.text table tr:first-child th:last-child,
+.text table tr:first-child td:last-child  {
     border-radius: 0 .6rem 0 0;
 }
-.text table tr:last-child th:first-child, .text table tr:last-child td:first-child  {
+.text table tr:last-child th:first-child,
+.text table tr:last-child td:first-child  {
     border-radius: 0 0 0 .6rem;
 }
-.text table tr:last-child th:last-child, .text table tr:last-child td:last-child  {
+.text table tr:last-child th:last-child,
+.text table tr:last-child td:last-child  {
     border-radius: 0 0 .6rem 0;
 }
 .text table tr:nth-child(2n+1) {
-    background-color: white;
+    background-color: #EEE;
 }
 .text table tr:nth-child(2n) {
-    background-color: #e3f6e5;
+    background-color: #DDD;
 }
 .text table td, .text table th {
     padding: .8rem 1rem;
@@ -126,6 +139,9 @@ html, body {
 .text table tr th {
     background-color: #43c552;
     color: white;
+}
+.text img {
+    max-width: 100%;
 }
 
 #nav-toggle {
@@ -237,11 +253,8 @@ nav .logo {
     order: 0;
     margin: 1rem 0;
 }
-.image-text-block .text h1 {
-    font-size: 2.5rem;
-    line-height: 1.3em;
-    margin-bottom: .3em;
-    font-weight: normal;
+.image-text-block .text img {
+    display: none;
 }
 .image-text-block .img {
     order: -1;
@@ -295,25 +308,31 @@ footer::before {
 }
 footer {
     background-color: #ddd;
+    padding-bottom: 1rem;
 }
 footer > .text-block {
     padding-top: 0;
 }
 footer #partners {
     background-color: white;
+    max-width: 28rem;
+    border-radius: .5rem;
+    margin: 1rem 0 0 0;
 }
 footer #partners p {
     padding-top: 1rem;
+    padding-bottom: .5rem;
     flex-basis: 100%;
-}
-footer #partners .item img {
-    width: 100%;
+    border-bottom: .1rem solid #DDD;
 }
 footer #partners .flexbox {
     display: flex;
     justify-content: space-evenly;
     align-items: center;
-    margin: 0;
+    margin: 0 .5rem;
+}
+footer #partners .item img {
+    width: 100%;
 }
 footer #partners #brezanek {
     order: 1;
@@ -337,9 +356,26 @@ footer #partners #ric {
     color: #32943e;
 }
 
-
 @media (min-width:600px) {
-    
+    footer .text-block {
+        display: flex;
+        justify-content: center;
+        max-width: 100vw;
+    }
+    footer .text-block .left {
+        order: 1;
+        margin: 0 0 0 auto;
+    }
+    footer .text-block .right {
+        order: 2;
+        margin: 0 auto 0 1rem;
+    }
+    footer .group .item {
+        padding: 1rem
+    }
+    footer #partners {
+        margin: 0 auto;
+    }
 }
 @media (min-width:900px) {
     #nav-toggle {
@@ -357,9 +393,6 @@ footer #partners #ric {
         line-height: 1rem;
         font-size: 1.1rem;
     }
-    nav > ul > li:not(.button):hover {
-        box-shadow: .1rem 0 0 inset #43c552;
-    }
     nav > ul > li:last-child {
         border-bottom: none;
     }
@@ -375,13 +408,13 @@ footer #partners #ric {
         margin-top: 2rem;
         max-width: 15rem;
     }
-    nav ul li.dropdown:hover {
-        box-shadow: inset .1rem 0 0 #43c552;
+    nav > ul > li:not(.button):hover {
+        box-shadow: inset .15rem 0 0 #43c552;
     }
     nav ul li.dropdown:hover > ul {
         z-index: 100;
         display: block;
-        border-left: .1rem solid #43c552;
+        /* border-left: .1rem solid #43c552; */
     }
     nav ul li.dropdown.open > ul {
         position: absolute;
@@ -396,7 +429,7 @@ footer #partners #ric {
     nav ul li.dropdown > ul > li {
         margin: 0;
         font-size: 1rem;
-        box-shadow: inset 0 0 0 #43c552;
+        box-shadow: inset .15rem 0 0 #43c552;
         transition: box-shadow .2s;
     }
     nav ul li.dropdown > ul > li:hover {
@@ -438,24 +471,6 @@ footer #partners #ric {
     }
     .image-text-block .img img {
         max-width: 100%;
-    }
-
-    footer .text-block {
-        display: flex;
-        justify-content: center;
-        /* align-items: ; */
-        max-width: 100vw;
-    }
-    footer .text-block .left {
-        order: 1;
-        margin: 0 0 0 auto;
-    }
-    footer .text-block .right {
-        order: 2;
-        margin: 0 auto 0 1rem;
-    }
-    footer .group .item {
-        padding: 1rem
     }
 }
 @media (min-width:1200px) {
