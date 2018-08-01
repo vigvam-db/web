@@ -1,4 +1,7 @@
 ---
 title: VIGVAM
 ---
-Organizace VIGVAM, z.ú. je nezisková volnočasová organizace založená v lednu 2016 jako zapsaný ústav v návaznosti na Centrum Břežánek, z.ú. Jejím primárním posláním je podpora komunity napříč věkovým spektrem se zvláštním důrazem na teenagery, dospělé a seniory. Spolupodílí se na provozování kulturního centra v Dolních Břežanech, organizuje pravidelné kurzy, vzdělávací semináře a pořádá jednorázové kulturní či sportovní akce. Od ledna 2016 je součástí organizace VIGVAM z.ú. původní spolek Senin, kde se již několik let setkává fungujíci skupina seniorů.
+Co je VIGVAM, z.ú.?  Jsme nezisková volnočasová organizace založená v lednu 2016 jako zapsaný ústav v návaznosti na Centrum Břežánek, z.ú. Naším posláním je podpora komunity napříč věkovým spektrem s důrazem na teenagery, dospělé a seniory. Spolupodílíme se na provozování kulturního centra v Dolních Břežanech, organizujeme pravidelné kurzy, vzdělávací semináře a pořádáme jednorázové kulturní či sportovní akce. Od ledna 2016 je součástí naší organizace původní spolek Senin, kde se již několik let setkává fungujíci skupina seniorů.\
+\
+Věříme, že Vás nabídka našich aktivit zaujme a těšíme se Vás.\
+Tým organizace VIGVAM, z.ú.
