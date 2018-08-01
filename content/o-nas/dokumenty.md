@@ -3,7 +3,7 @@ title: Dokumenty
 ---
 Rozvrh kurzů 1.pololetí 2018-19
 
-Podmínky pro kurzy a pro jednorázové kurzy/ workshopy/ školení organizace VIGVAM z.ú.
+[Podmínky pro kurzy a pro jednorázové kurzy/ workshopy/ školení organizace VIGVAM z.ú.](</images/uploads/Podminky_ kurzy_akce_VIGVAM_2018_19.pdf>)
 
 Výroční zpráva\
 2016\
