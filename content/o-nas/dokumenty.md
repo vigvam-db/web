@@ -1,5 +1,4 @@
 ---
-title: "Dokumenty"
+title: Dokumenty
 ---
-
-Tady bude seznam dokumentů.
+ZDE naleznete seznam dokumentů.
