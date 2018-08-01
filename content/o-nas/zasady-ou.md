@@ -21,15 +21,15 @@ Právo vznést námitku, omezení zpracování
 
 Pokud se domníváte, že Vaše osobní údaje nezpracováváme v souladu s platnou legislativou, máte právo žádat omezení jejich zpracování a můžete vznést námitku proti jejich zpracování na adresu sídla naší společnosti, nebo se proti takovému zpracování obrátit formou stížnosti na adresu dozorového úřadu, kterým je v ČR Úřad pro ochranu osobních údajů.
 
-
-
 Právo na výmaz
 
 Pokud zpracováváme Vaše osobní údaje, které jste nám poskytli na základě udělení souhlasu a zanikl účel, pro který jste nám tento souhlas poskytli nebo se domníváte, že zpracování vašich osobních údajů neprobíhá v souladu s platnou legislativou, neprodleně je vymažeme, pokud si to budete přát a tento svůj souhlas odvoláte. Jako správce máme povinnost Vás o tomto kroku informovat a požádat o učinění stejného kroku naše případné zpracovatele.
 
+Webové stránky
+
+Naše webové stránky respektují soukromí návštěvníků a uživatelů, takže je můžete procházet anonymně bez nutnosti registrace či přihlášení. Při návštěvě stránek jste informováni o tom, že používáme technologii k shromažďování a ukládání informací (nikoliv však Vašich osobních údajů) do Vašeho počítače prostřednictvím souborů cookies, bez kterých nejsme schopni zajistit plnohodnotnou funkčnost těchto stránek Podrobnější informace o námi používaných souborech cookies můžete najít zde:  https://www.vigvam-db.cz/cookies.
+
 Z našich akcí někdy pořizujeme fotografie nebo videa, jež používáme pro propagaci organizace, výroční zprávy, webovou fotogalerii nebo kroniku. Jedná o ilustrační skupinové fotografie bez přímého vztahu k osobním údajům jednotlivce.  Pokud si ovšem ani tak nepřejete, abychom pro tyto účely použili fotografie Vás nebo Vašich dětí, oznamte nám to prosím na adresu vigvamdb@gmail.com. 
-
-
 
 Marketingová sdělení
 
