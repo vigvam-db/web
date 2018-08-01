@@ -6,3 +6,22 @@ command = "hugo --enableGitInfo"
 HUGO_VERSION = "0.45.1"
 HUGO_ENV = "production"
 HUGO_ENABLEGITINFO = "true"
+
+# Redirecting vigvam-db.netlify.com to primary domain and HTTP to HTTPS
+[[redirects]]
+  from = "https://vigvam-db.netlify.com/*"
+  to = "https://new.vigvam-db.cz/:splat"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "http://vigvam-db.netlify.com/*"
+  to = "http://new.vigvam-db.cz/:splat"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "http://new.vigvam-db.cz/*"
+  to = "https://new.vigvam-db.cz/:splat"
+  status = 301
+  force = true
