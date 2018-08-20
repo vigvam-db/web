@@ -3,7 +3,7 @@ publish = "public"
 command = "hugo --enableGitInfo"
 
 [context.production.environment]
-HUGO_VERSION = "0.45.1"
+HUGO_VERSION = "0.47.1"
 HUGO_ENV = "production"
 HUGO_ENABLEGITINFO = "true"
 
