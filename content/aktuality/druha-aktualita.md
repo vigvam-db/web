@@ -1,6 +1,6 @@
 ---
 title: Druhá česká aktualita
-weight: 200
+weight: 90
 ---
 Toto je druhá aktualita.
 
@@ -12,4 +12,4 @@ Toto je druhá aktualita.
 * opět první bod
 * a opět druhý bod
 
-![](/images/uploads/babicky-detem.jpg)
+![null](/images/uploads/babicky-detem.jpg)
