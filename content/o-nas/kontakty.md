@@ -1,7 +1,7 @@
 ---
 title: Kontakty
 ---
-Adresa sídla a kancelář: ul. 5. Května 78, 252 41 Dolní Břežany
+Adresa sídla a kanceláře: ul. 5. Května 78, 252 41 Dolní Břežany
 
 IČO: 04678443
 
