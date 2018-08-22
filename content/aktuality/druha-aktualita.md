@@ -1,15 +1,10 @@
 ---
 title: Druhá česká aktualita
+thumbnail: /images/uploads/rodina-vykukuje.jpg
 weight: 90
 ---
-Toto je druhá aktualita.
+Vítejte na stránkách organizace VIGVAM, z.ú.
 
-Žluťoučký kůň úpěl ďábelské ódy.
+Najdete zde přehled kurzů a jednorázových akcí pro teenagery, dospělé a seniory.
 
-1. první bod
-2. druhý bod
-
-* opět první bod
-* a opět druhý bod
-
-![null](/images/uploads/babicky-detem.jpg)
+Jsme tu pro Vás!
