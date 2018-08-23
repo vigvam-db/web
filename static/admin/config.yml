@@ -74,6 +74,12 @@ collections:
         fields:
           - {label: "Nadpis", name: "title", widget: "string"}
           - {label: "Text", name: "body", widget: "markdown"}
+      - file: "content/o-nas/nas-tym.md"
+        label: "Náš tým"
+        name: "nas-tym"
+        fields:
+          - {label: "Nadpis", name: "title", widget: "string"}
+          - {label: "Text", name: "body", widget: "markdown"}
       - file: "content/o-nas/dokumenty.md"
         label: "Dokumenty"
         name: "dokumenty"
