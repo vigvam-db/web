@@ -14,4 +14,4 @@ Bc. Barbara Grossová, finance a účetnictví
 
 Martina Burgetová, grafika
 
-Pavel Sýkora, web a IT
+Pavel a Michal Sýkorovi, web a IT
