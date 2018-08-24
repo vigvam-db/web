@@ -1,8 +1,6 @@
 ---
 title: Náš tým
 ---
-**Představujeme Vám náš tým**
-
 Monika Žáková, ředitelka
 
 Martina Vilhumová, provozní manažerka
