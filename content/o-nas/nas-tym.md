@@ -1,9 +1,7 @@
 ---
 title: Náš tým
 ---
-Představujeme Vám náš tým.
-
-Tým organizace VIGVAM, z.ú.
+**Představujeme Vám náš tým**
 
 Monika Žáková, ředitelka
 
