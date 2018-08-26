@@ -9,3 +9,6 @@ disableKinds = ["RSS", "taxonomy", "taxonomyTerm"]
 
 enableRobotsTXT = true
 EnableGitInfo = true
+
+[blackfriday]
+  fractions = false   # do not render fractions
