@@ -7,10 +7,11 @@ html, body {
 .center {
     text-align: center;
 }
-.text b, .b {
+.text b, .b, strong {
     font-weight: bold;
+    color: #333;
 }
-.text i, .i {
+.text i, .i, em {
     font-style: italic;
 }
 
