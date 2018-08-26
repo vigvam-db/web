@@ -11,4 +11,4 @@ Email: vigvamdb@gmail.com
 
 Tel: 773 619 138
 
-Kontakty na členy našeho týmu naleznete ZDE.
+Kontakty na členy našeho týmu naleznete[ ZDE](/o-nas/nas-tym/).
