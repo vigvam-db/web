@@ -11,4 +11,4 @@ title: Dokumenty
 
 **Burza**\
 [Pravidla burzy](/docs/burza-pravidla-vigvam-2017.pdf)\
-[Formulář burzy a lístečky k označení](burza-formular-seznam-veci-2017.pdf)
+[Formulář burzy a lístečky k označení](/docs/burza-formular-seznam-veci-2017.pdf)
