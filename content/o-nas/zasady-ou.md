@@ -1,7 +1,7 @@
 ---
 title: Zásady zpracování osobních údajů
 ---
-Naše společnost, VIGVAM, z.ú., přistupuje k ochraně osobních údajů, která nám předáváte, zodpovědně. Je důležité, abyste věděli, že osobní údaje, které nám poskytujete, zpracováváme korektně, transparentně a v souladu s platnými právními předpisy. V případě jakýchkoliv dotazů, týkajících se zpracování Vašich osobních údajů, se na nás můžete obrátit, a to písemně na adresu sídla společnosti nebo elektronicky na adresu vigvamdb@gmail.com.
+Naše společnost, VIGVAM, z.ú., přistupuje k ochraně osobních údajů, které nám předáváte, zodpovědně. Je důležité, abyste věděli, že osobní údaje, které nám poskytujete, zpracováváme korektně, transparentně a v souladu s platnými právními předpisy. V případě jakýchkoliv dotazů, týkajících se zpracování Vašich osobních údajů, se na nás můžete obrátit, a to písemně na adresu sídla společnosti nebo elektronicky na adresu vigvamdb@gmail.com.
 
 Dbáme na to, aby osobní údaje, které od Vás získáme, byly v bezpečí. Přijali jsme proto vhodná technicko- organizační opatření, abychom Vaše data dostatečně chránili s ohledem na závažnost jejich zpracování. K Vašim osobním údajům mají přístup pouze oprávněné osoby a k dalšímu zpracování je bez Vašeho souhlasu nikam dál nepředáváme, pokud to nevyžaduje zákon nebo ochrana našich právních zájmů či plnění právních povinností.
 
