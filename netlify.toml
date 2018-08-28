@@ -10,18 +10,30 @@ HUGO_ENABLEGITINFO = "true"
 # Redirecting vigvam-db.netlify.com to primary domain and HTTP to HTTPS
 [[redirects]]
   from = "https://vigvam-db.netlify.com/*"
-  to = "https://new.vigvam-db.cz/:splat"
+  to = "https://www.vigvam-db.cz/:splat"
   status = 301
   force = true
 
 [[redirects]]
   from = "http://vigvam-db.netlify.com/*"
-  to = "http://new.vigvam-db.cz/:splat"
+  to = "http://www.vigvam-db.cz/:splat"
   status = 301
   force = true
 
 [[redirects]]
-  from = "http://new.vigvam-db.cz/*"
-  to = "https://new.vigvam-db.cz/:splat"
+  from = "http://www.vigvam-db.cz/*"
+  to = "https://www.vigvam-db.cz/:splat"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "http://vigvam-db.cz/*"
+  to = "http://www.vigvam-db.cz/:splat"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "https://vigvam-db.cz/*"
+  to = "https://www.vigvam-db.cz/:splat"
   status = 301
   force = true
