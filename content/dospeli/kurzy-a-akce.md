@@ -1,9 +1,9 @@
 ---
 title: Kurzy a akce pro dospělé
 ---
-![](/images/uploads/vigvam_dosp.jpg)
+![null](/images/uploads/vigvam_dosp.jpg)
 
 Kurzy a akce pro dospělé najdete v našem [rezervačním systému](https://brezanek.webooker.eu/).\
-V Rezervačním systému naleznete také popisy kurzů, ceny, časy,  informace o lektorech apod., to vše si můžete prohlédnout i bez předchozí registrace. \
+V rezervačním systému naleznete také popisy kurzů, ceny, časy,  informace o lektorech apod., to vše si můžete prohlédnout i bez předchozí registrace. \
 \
-Podmínky pro kurzy a pro jednorázové kurzy/ workshopy/ školení organizace VIGVAM, z.ú. naleznete v Rezervačním systému v záložce Další/Provozní řád.
+Podmínky pro kurzy a pro jednorázové akce/ workshopy/ školení organizace VIGVAM, z.ú. naleznete v rezervačním systému v záložce Další/Provozní řád.

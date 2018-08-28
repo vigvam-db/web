@@ -11,4 +11,4 @@ Email: vigvamdb@gmail.com
 
 Tel: 773 619 138
 
-Kontakty na členy našeho týmu naleznete[ ZDE](/o-nas/nas-tym/).
+Kontakty na členy našeho týmu naleznete [ZDE](https://www.vigvam-db.cz/o-nas/nas-tym/).
