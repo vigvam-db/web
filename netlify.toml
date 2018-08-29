@@ -25,15 +25,3 @@ HUGO_ENABLEGITINFO = "true"
   to = "https://www.vigvam-db.cz/:splat"
   status = 301
   force = true
-
-[[redirects]]
-  from = "http://vigvam-db.cz/*"
-  to = "http://www.vigvam-db.cz/:splat"
-  status = 301
-  force = true
-
-[[redirects]]
-  from = "https://vigvam-db.cz/*"
-  to = "https://www.vigvam-db.cz/:splat"
-  status = 301
-  force = true
