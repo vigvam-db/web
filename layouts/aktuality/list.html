@@ -1,0 +1,24 @@
+{{ define "main" }}
+  <div class="text-block text">
+      <h1>Testovací stránka</h1>
+  </div>
+  <div>
+    {{ range .Pages }}
+            <!-- <div class="text-block text">
+                <h2>{{ .Title }}</h2>
+                {{ .Content }}
+                <div class="lastmod">(Poslední aktualizace: {{ .Lastmod.Format "2.1.2006" }})</div>
+            </div> -->
+            <div class="image-text-block">
+                <div class="img">
+                    <img src='{{ .Param "thumbnail" }}'>   
+                </div>
+                <div class="text">
+                    <h2>{{ .Title }}</h2>
+                    {{ .Content }}    
+                    <div class="lastmod">(Poslední aktualizace: {{ .Lastmod.Format "2.1.2006" }})</div>
+                </div>
+            </div>
+    {{ end }}
+</div>
+{{end}}
