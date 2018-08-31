@@ -315,7 +315,7 @@ footer > .text-block {
     padding-top: 0;
 }
 footer #partners {
-    max-width: 22rem;
+    max-width: 20rem;
     margin: 0;
 }
 footer #partners p {
@@ -377,9 +377,15 @@ footer #partners #ric {
     }
     footer #partners {
         margin: 0 auto;
+        display: flex;
+        flex-direction: column;
     }
     footer #partners p {
-        padding-top: 0;
+        padding-top: .2rem;
+        order: 2;
+    }
+    footer #partners .flexbox {
+        order: 1;
     }
 }
 @media (min-width:900px) {
