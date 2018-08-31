@@ -322,6 +322,7 @@ footer #partners p {
     padding-top: 1rem;
     padding-bottom: .5rem;
     flex-basis: 100%;
+    font-size: 0.9rem;
 }
 footer #partners .flexbox {
     padding: .2rem;
@@ -383,6 +384,7 @@ footer #partners #ric {
     footer #partners p {
         padding-top: .2rem;
         order: 2;
+        font-size: 0.8rem;
     }
     footer #partners .flexbox {
         order: 1;
