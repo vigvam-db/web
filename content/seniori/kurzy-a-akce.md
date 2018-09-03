@@ -3,6 +3,8 @@ title: Kurzy a akce pro seniory
 ---
 ![null](/images/uploads/vigvam_senior.jpg)
 
+![](/images/uploads/filmovy-klub-senior_podzim_2018-2-.jpg)
+
 Kurzy a akce pro seniory najdete v našem [rezervačním systému](https://brezanek.webooker.eu/).\
 V Rezervačním systému naleznete také popisy kurzů, ceny, časy,  informace o lektorech apod., to vše si můžete prohlédnout i bez předchozí registrace. \
 \
