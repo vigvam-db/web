@@ -3,6 +3,9 @@ title: Kurzy a akce pro dospělé
 ---
 ![null](/images/uploads/vigvam_dosp.jpg)
 
+\
+**Burza oblečení. Zájemci o prodej se musí rezervovat ZDE.**
+
 Kurzy a akce pro dospělé najdete v našem [rezervačním systému](https://brezanek.webooker.eu/).\
 V rezervačním systému naleznete také popisy kurzů, ceny, časy,  informace o lektorech apod., to vše si můžete prohlédnout i bez předchozí registrace. \
 \
