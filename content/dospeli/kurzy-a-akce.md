@@ -4,7 +4,7 @@ title: Kurzy a akce pro dospělé
 ![null](/images/uploads/vigvam_dosp.jpg)
 
 \
-**Zájemci o prodej na Podzimní burze se musí registrovat také v našem rezervačním systému.**
+**Zájemci o prodej na Podzimní burze se musí registrovat ZDE.**
 
 Kurzy a akce pro dospělé najdete v našem [rezervačním systému](https://brezanek.webooker.eu/).\
 V rezervačním systému naleznete také popisy kurzů, ceny, časy,  informace o lektorech apod., to vše si můžete prohlédnout i bez předchozí registrace. \
