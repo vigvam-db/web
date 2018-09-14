@@ -1,9 +1,11 @@
 ---
 title: Kurzy a akce pro dospělé
 ---
-![null](/images/uploads/burza_podzim_2018-1-.jpg)
-
 ![](/images/uploads/vigvam_pro_dospele_program_konecny.jpg)
+
+![](/images/uploads/burza_podzim_2018-1-.jpg)
+
+![](/images/uploads/poskytovani_pp_detem_termin_podzim_2018.jpg)
 
 **Zájemci o prodej na Podzimní burze se musí registrovat **[**ZDE**](https://docs.google.com/forms/d/e/1FAIpQLScep3NZhLZkcVRkI7Pb2lQUvstCGUpVtsbgPDGjvuSlUkXdjA/viewform)**.**\
 Dokumenty k burze naleznete [ZDE](https://www.vigvam-db.cz/o-nas/dokumenty/).
