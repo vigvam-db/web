@@ -5,7 +5,7 @@ title: Kurzy a akce pro dospělé
 
 ![null](/images/uploads/burza_podzim_2018-1-.jpg)
 
-Zájemci o prodej na Podzimní burze se musí registrovat  [ZD](https://vigvam.webooker.eu/)E.\
+Zájemci o prodej na Podzimní burze se musí registrovat [ ZDE](https://vigvam.webooker.eu/).\
 Dokumenty k burze naleznete [ZDE](https://www.vigvam-db.cz/o-nas/dokumenty/).
 
 ![null](/images/uploads/vigvam_joga_a_pilates_2018-1-.jpg)
