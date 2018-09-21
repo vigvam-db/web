@@ -8,6 +8,8 @@ title: Kurzy a akce pro dospělé
 Zájemci o prodej na Podzimní burze se musí registrovat  [ZDE](https://docs.google.com/forms/d/e/1FAIpQLScep3NZhLZkcVRkI7Pb2lQUvstCGUpVtsbgPDGjvuSlUkXdjA/viewform).\
 Dokumenty k burze naleznete [ZDE](https://www.vigvam-db.cz/o-nas/dokumenty/).
 
+![](/images/uploads/vigvam_joga_a_pilates_2018-1-.jpg)
+
 Kurzy a akce pro dospělé najdete v našem [rezervačním systému](https://brezanek.webooker.eu/).\
 V rezervačním systému naleznete také popisy kurzů, ceny, časy,  informace o lektorech apod., to vše si můžete prohlédnout i bez předchozí registrace. \
 \
