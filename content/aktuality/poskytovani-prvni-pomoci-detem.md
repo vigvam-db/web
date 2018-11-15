@@ -1,5 +1,7 @@
 ---
-title: Laserová centra - ZMĚNA
+title: Hormonální jóga
 weight: 92
 ---
-Pozor, dochází ke změně termínu prohlídky laserových center pro seniory. Nový termín je 9. 11. 2018 v 13:30 hodin. Sraz je  před laserovým centrem HiLASE. Prohlídka potrvá 90 – 120 minut.
+Nabízíme poslední volné místo na Hormonální terapii 8.12.2018. Pokud Vám termín nevyhovuje, můžete se těšit na nové termíny v roce 2019.
+
+![](/images/uploads/hormon.jpg)
