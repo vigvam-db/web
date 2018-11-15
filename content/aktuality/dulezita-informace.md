@@ -1,8 +1,7 @@
 ---
-title: Důležité informace
+title: Zápisy na 2.pololetí šk. roku 2018/19
 weight: 86
 ---
-9.11.2018 neni lekce Příprava na gymnázia -matematika ( pátek)\
-14.11.2018 neni lekce Příprava na gymnázia - český jazyk\
-Lekce budou nahrazeny v lednu 2019.\
-Děkujeme za pochopení
+Milí klienti, \
+zápisy do kurzů na 2. pololetí šk.roku 2018/19 začnou pro stávající klienty již v prosinci . Noví klienti se mohou do kurzů přihlásit v průběhu ledna 2019.\
+Těšíme se na Vás
