@@ -3,6 +3,11 @@ title: Kurzy a akce pro teenagery
 ---
 ![null](/images/uploads/priprava-na-prijimaci-zkousky_zari-2018-3-.jpg)
 
+
+
+![](/images/uploads/jpeg.jpg)
+
+\
 Kurzy a akce pro teenagery najdete v našem [rezervačním systému](https://brezanek.webooker.eu/).\
 V rezervačním systému naleznete také popisy kurzů, ceny, časy,  informace o lektorech apod., to vše si můžete prohlédnout i bez předchozí registrace. \
 \
