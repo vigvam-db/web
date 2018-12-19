@@ -1,6 +1,6 @@
 ---
 title: Zápisy na 2.pololetí šk. roku 2018/19
-weight: 86
+weight: 85
 ---
 **Pro stávající klienty**\
 Do kurzu, který navštěvujete od září budete automaticky zapsáni i pro kurzy začínající v únoru 2019.\
