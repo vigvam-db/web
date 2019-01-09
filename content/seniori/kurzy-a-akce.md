@@ -3,6 +3,8 @@ title: Kurzy a akce pro seniory
 ---
 ![](/images/uploads/vigvam_pro_seniory_program_2019-2-.jpg)
 
+![](/images/uploads/dechove_techniky_pro_zdravi_sen_2019.jpg)
+
 ![null](/images/uploads/filmovy_klub_senior_podzim_2018.jpg)
 
 Kurzy a akce pro seniory najdete v našem [rezervačním systému](https://vigvam.webooker.eu/).\
