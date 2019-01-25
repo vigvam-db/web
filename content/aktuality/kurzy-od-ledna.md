@@ -1,5 +1,5 @@
 ---
-title: Kurzy od ledna
+title: Začátek 2.pololetí
 weight: 84
 ---
 **Termíny prvních lekcí kurzů 2. pololetí**\
