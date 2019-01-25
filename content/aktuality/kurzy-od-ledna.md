@@ -2,7 +2,14 @@
 title: Kurzy od ledna
 weight: 84
 ---
-Všechny kurzy Vigvamu začínají v týdnu od 7.1.2019, s vyjímkou čtvrteční jógy, která začne již 3.1.2019\
-9.1.2019 není Příprava z českého jazyka\
-11.1.2019 není cvičení pro seniory s Jitkou\
-11.-.15.2. 2019 není jóga a cvičení pro seniory
+**Termíny prvních lekcí kurzů 2. pololetí**\
+Jóga pro seniory 4.02.2019 a 30.01.2019\
+Zdravotní cvičení 8.02.2019\
+Ranní jóga 4.03.2019 a 30.01.2019\
+Hatha jóga 5.02.2019\
+Jóga	(středa) 30.01.2019\
+Power jóga ( čtvrtek) 14.02.2019\
+Pilates 4.02.2019\
+Příprava na víceletá gymnázia M+ Čj 30.01.2019\
+Příprava na víceletá gymnázia - pátek 22.02.2019\
+Tuláci - turistický oddíl 05.02.2019
