@@ -12,4 +12,4 @@ Power jóga ( čtvrtek) 14.02.2019\
 Pilates 4.02.2019\
 Příprava na víceletá gymnázia M+ Čj 30.01.2019\
 Příprava na víceletá gymnázia - pátek 22.02.2019\
-Tuláci - turistický oddíl 05.02.2019
+Tuláci - turistický oddíl 12.02.2019
