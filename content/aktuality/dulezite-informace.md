@@ -2,4 +2,4 @@
 title: Důležité informace
 weight: 81
 ---
-30.1.2019 není lekce Příprava na gymnázia- český jazyk ( lektorka je nemocná)
+V týdnu od 11.2.  do 15.2. 2019 není Pilates, cvičení pro seniory a ranní i večerní jóga s Veronikou.
