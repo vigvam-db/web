@@ -1,7 +1,7 @@
 ---
 title: Kurzy a akce pro dospělé
 ---
-![null](/images/uploads/vigvam_pro_dospele_program_konecny.jpg)
+![null]()
 
 ![null](/images/uploads/vigvam_joga_a_pilates_2018-1-.jpg)
 
