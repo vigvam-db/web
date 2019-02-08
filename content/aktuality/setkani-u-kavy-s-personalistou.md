@@ -1,6 +1,6 @@
 ---
 title: Setkání u kávy s personalistou
-weight: 80
+weight: 81
 ---
 Kdy: úterý 9.4. od 9:00 – 12:00\
 Kde: Centrum Břežánek, Dolní Břežany , U náměstí 712\
