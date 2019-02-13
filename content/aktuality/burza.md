@@ -1,6 +1,6 @@
 ---
 title: 'Burza '
 thumbnail: ''
-weight: 100
+weight: 90
 ---
 ![](/images/uploads/jarni_burza_2019.jpg)
