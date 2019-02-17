@@ -3,6 +3,8 @@ title: Kurzy a akce pro dospělé
 ---
 ![null](/images/uploads/jarni_burza_2019.jpg)
 
+![](/images/uploads/2019-04-09_setkani_u_kavy_s_personalistou-1-.jpg)
+
 ![null](/images/uploads/vigvam_joga_a_pilates_2018-1-.jpg)
 
 ![](/images/uploads/vigvam_dospeli_2019.jpg)
