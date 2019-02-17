@@ -3,6 +3,8 @@ title: Kurzy a akce pro seniory
 ---
 ![](/images/uploads/vigvam_pro_seniory_program_2019-2-.jpg)
 
+![](/images/uploads/2019-04-06_jarni-setkani-senioru.jpg)
+
 ![](/images/uploads/2019-04-09_velikonocni_tvoreni_pro_seniory.jpg)
 
 ![](/images/uploads/dechove_techniky_pro_zdravi_sen_2019.jpg)
