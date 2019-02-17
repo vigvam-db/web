@@ -13,6 +13,7 @@ title: Kurzy a akce pro dospělé
 
 \
 Kurzy a akce pro dospělé najdete v našem [rezervačním systému](https://vigvam.webooker.eu/).\
+Přihlásit k prodeji na burze se můžete [ZDE](https://docs.google.com/forms/d/e/1FAIpQLScep3NZhLZkcVRkI7Pb2lQUvstCGUpVtsbgPDGjvuSlUkXdjA/viewform)\
 V rezervačním systému naleznete také popisy kurzů, ceny, časy,  informace o lektorech apod., to vše si můžete prohlédnout i bez předchozí registrace. \
 \
 Podmínky pro kurzy a pro jednorázové akce/ workshopy/ školení organizace VIGVAM, z.ú. naleznete v rezervačním systému v záložce Další/Provozní řád.
