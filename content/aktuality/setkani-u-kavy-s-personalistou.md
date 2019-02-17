@@ -9,4 +9,5 @@ Cena: Zdarma\
 objednejte se na :  katka.maskova@gmail.com
 
 Napsali jste životopis a rádi byste se ujistili, že zaujme a je v něm vše podstatné? Chcete, aby Váš motivační dopis byl odlišných od ostatních? Nevíte, jak odpovídat na nezvyklé otázky, které Vás mohou při pohovoru potkat? Ocenili byste profesionální konzultaci?\
-Přijďte si popovídat v příjemném a neformálním prostředí.
+Přijďte si popovídat v příjemném a neformálním prostředí.\
+Více informací naleznete [ZDE](https://www.vigvam-db.cz/dospeli/kurzy-a-akce/).
