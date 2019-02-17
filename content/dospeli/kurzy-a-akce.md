@@ -1,7 +1,7 @@
 ---
 title: Kurzy a akce pro dospělé
 ---
-![null]()
+![null](/images/uploads/jarni_burza_2019.jpg)
 
 ![null](/images/uploads/vigvam_joga_a_pilates_2018-1-.jpg)
 
@@ -9,6 +9,7 @@ title: Kurzy a akce pro dospělé
 
 ![](/images/uploads/nlp_2019-03-23.jpg)
 
+\
 Kurzy a akce pro dospělé najdete v našem [rezervačním systému](https://vigvam.webooker.eu/).\
 V rezervačním systému naleznete také popisy kurzů, ceny, časy,  informace o lektorech apod., to vše si můžete prohlédnout i bez předchozí registrace. \
 \
