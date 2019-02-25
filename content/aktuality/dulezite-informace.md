@@ -2,6 +2,8 @@
 title: Důležité informace
 weight: 81
 ---
+7.3.2019 není Power joga\
+8.3.2019 není zdravotní cvičení\
 23.4.2019 je zrušen Trénink paměti pro seniory
 
 Nově zařazujeme: \
