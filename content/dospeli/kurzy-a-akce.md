@@ -11,9 +11,12 @@ title: Kurzy a akce pro dospělé
 
 ![](/images/uploads/nlp_2019-03-23.jpg)
 
-\
+**Zdravý životní styl**\
+Již 16.4.2019 od 18 h Vám nabídneme seminář na téma: Základy zdravého a vyváženého životního stylu a proč je dobré ho dodržovat. Součástí bude ukázka porcí a ochutnávka jídlelníčku na celý den.\
+Pojďte se s námi připravit na jaro:-) Těšíme se n Vás
+
 Kurzy a akce pro dospělé najdete v našem [rezervačním systému](https://vigvam.webooker.eu/).\
-Přihlásit k prodeji na burze se můžete [ZDE](https://docs.google.com/forms/d/e/1FAIpQLScep3NZhLZkcVRkI7Pb2lQUvstCGUpVtsbgPDGjvuSlUkXdjA/viewform)\
+**Přihlásit k prodeji na burze se můžete** [**ZDE**](https://docs.google.com/forms/d/e/1FAIpQLScep3NZhLZkcVRkI7Pb2lQUvstCGUpVtsbgPDGjvuSlUkXdjA/viewform)****\
 V rezervačním systému naleznete také popisy kurzů, ceny, časy,  informace o lektorech apod., to vše si můžete prohlédnout i bez předchozí registrace. \
 \
 Podmínky pro kurzy a pro jednorázové akce/ workshopy/ školení organizace VIGVAM, z.ú. naleznete v rezervačním systému v záložce Další/Provozní řád.
