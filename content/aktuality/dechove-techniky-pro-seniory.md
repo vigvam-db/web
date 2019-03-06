@@ -1,5 +1,6 @@
 ---
-title: Dechové techniky pro seniory
+title: Běh pro ženy
+thumbnail: ''
 weight: 118
 ---
-![](/images/uploads/dechove_techniky_pro_zdravi_sen_2019.jpg)
+![](/images/uploads/2019_vigvam_beh_pro_zeny.jpg)
