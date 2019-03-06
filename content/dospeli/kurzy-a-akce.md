@@ -1,7 +1,11 @@
 ---
 title: Kurzy a akce pro dospělé
 ---
-![null](/images/uploads/jarni_burza_2019.jpg)
+Kurzy a akce pro dospělé najdete v našem [rezervačním systému](https://vigvam.webooker.eu/).\
+**Přihlásit k prodeji na burze se můžete** [**ZDE**](https://docs.google.com/forms/d/e/1FAIpQLScep3NZhLZkcVRkI7Pb2lQUvstCGUpVtsbgPDGjvuSlUkXdjA/viewform)\*\*\*\*\
+V rezervačním systému naleznete také popisy kurzů, ceny, časy,  informace o lektorech apod., to vše si můžete prohlédnout i bez předchozí registrace. \
+\
+Podmínky pro kurzy a pro jednorázové akce/ workshopy/ školení organizace VIGVAM, z.ú. naleznete v rezervačním systému v záložce Další/Provozní řád.
 
 ![](/images/uploads/2019-04-09_setkani_u_kavy_s_personalistou-1-.jpg)
 
@@ -13,12 +17,4 @@ title: Kurzy a akce pro dospělé
 
 ![](/images/uploads/2019_vigvam_beh_pro_zeny.jpg)
 
-**Zdravý životní styl**\
-Již 16.4.2019 od 18 h Vám nabídneme seminář na téma: Základy zdravého a vyváženého životního stylu a proč je dobré ho dodržovat. Součástí bude ukázka porcí a ochutnávka jídlelníčku na celý den.\
-Pojďte se s námi připravit na jaro:-) Těšíme se n Vás
-
-Kurzy a akce pro dospělé najdete v našem [rezervačním systému](https://vigvam.webooker.eu/).\
-**Přihlásit k prodeji na burze se můžete** [**ZDE**](https://docs.google.com/forms/d/e/1FAIpQLScep3NZhLZkcVRkI7Pb2lQUvstCGUpVtsbgPDGjvuSlUkXdjA/viewform)\*\*\*\*\
-V rezervačním systému naleznete také popisy kurzů, ceny, časy,  informace o lektorech apod., to vše si můžete prohlédnout i bez předchozí registrace. \
-\
-Podmínky pro kurzy a pro jednorázové akce/ workshopy/ školení organizace VIGVAM, z.ú. naleznete v rezervačním systému v záložce Další/Provozní řád.
+![](https://raw.githubusercontent.com/vigvam-db/web/master/static/images/uploads/jarni_burza_2019.jpg)
