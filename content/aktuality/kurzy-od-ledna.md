@@ -1,6 +1,6 @@
 ---
 title: Zdravý životní styl
-weight: 81
+weight: 79
 ---
 ![](/images/uploads/2019-04-16_vigvam_zdravy_jidelnicek.jpg)
 
