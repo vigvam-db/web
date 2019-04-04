@@ -2,7 +2,8 @@
 title: Setkání u kávy s personalistou
 weight: 81
 ---
-Kdy: úterý 9.4. od 9:00 – 12:00\
+**POZOR ZMĚNA TERMÍNU na 24.4.2019 od 9 do 12h**\
+Všechny přihlášené na 9.4. bude lektorka kontaktovat pro dohodnutí času v novém termínu. Děkujeme za pochopení.\
 Kde: Centrum Břežánek, Dolní Břežany , U náměstí 712\
 Konzultace vede Mgr. Kateřina Mašková\
 Cena: Zdarma\
