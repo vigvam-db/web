@@ -9,7 +9,7 @@ Podmínky pro kurzy a pro jednorázové akce/ workshopy/ školení organizace VI
 
 ![](/images/uploads/2019-04-16_vigvam_zdravy_jidelnicek.jpg)
 
-![](/images/uploads/2019-04-09_setkani_u_kavy_s_personalistou-1-.jpg)
+![POZOR ZMĚNA TERMÍNU na 24.4.2019 od 9 do 12h Všechny přihlášené na 9.4. bude lektorka kontaktovat pro dohodnutí času v novém termínu. Děkujeme za pochopení.](/images/uploads/2019-04-09_setkani_u_kavy_s_personalistou-1-.jpg)
 
 ![null](/images/uploads/vigvam_joga_a_pilates_2018-1-.jpg)
 
