@@ -7,6 +7,8 @@ V rezervačním systému naleznete také popisy kurzů, ceny, časy,  informace 
 \
 Podmínky pro kurzy a pro jednorázové akce/ workshopy/ školení organizace VIGVAM, z.ú. naleznete v rezervačním systému v záložce Další/Provozní řád.
 
+![]()
+
 ![](/images/uploads/2019-04-16_vigvam_zdravy_jidelnicek.jpg)
 
 ![POZOR ZMĚNA TERMÍNU na 24.4.2019 od 9 do 12h Všechny přihlášené na 9.4. bude lektorka kontaktovat pro dohodnutí času v novém termínu. Děkujeme za pochopení.](/images/uploads/2019-04-09_setkani_u_kavy_s_personalistou-1-.jpg)
@@ -18,5 +20,3 @@ Podmínky pro kurzy a pro jednorázové akce/ workshopy/ školení organizace VI
 ![](/images/uploads/nlp_2019-03-23.jpg)
 
 ![](/images/uploads/2019_vigvam_beh_pro_zeny.jpg)
-
-![](https://raw.githubusercontent.com/vigvam-db/web/master/static/images/uploads/jarni_burza_2019.jpg)
