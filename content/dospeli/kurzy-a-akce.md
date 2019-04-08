@@ -7,7 +7,7 @@ V rezervačním systému naleznete také popisy kurzů, ceny, časy,  informace 
 \
 Podmínky pro kurzy a pro jednorázové akce/ workshopy/ školení organizace VIGVAM, z.ú. naleznete v rezervačním systému v záložce Další/Provozní řád.
 
-![]()
+![](/images/uploads/2019-05-11_vigvam_joga_zdrava_pater.jpg)
 
 ![](/images/uploads/2019-04-16_vigvam_zdravy_jidelnicek.jpg)
 
