@@ -1,8 +1,6 @@
 ---
 title: Kurzy a akce pro seniory
 ---
-![null](/images/uploads/filmovy_klub_senior_podzim_2018.jpg)
-
 ![](/images/uploads/vigvam_pro_seniory_program_2019-4-.jpg)
 
 \
