@@ -7,6 +7,8 @@ V rezervačním systému naleznete také popisy kurzů, ceny, časy,  informace 
 \
 Podmínky pro kurzy a pro jednorázové akce/ workshopy/ školení organizace VIGVAM, z.ú. naleznete v rezervačním systému v záložce Další/Provozní řád.
 
+![](/images/uploads/2019-05-30_vigvam_prvni_pomoc.jpg)
+
 ![](/images/uploads/2019-05-11_vigvam_joga_zdrava_pater.jpg)
 
 ![POZOR ZMĚNA TERMÍNU na 24.4.2019 od 9 do 12h Všechny přihlášené na 9.4. bude lektorka kontaktovat pro dohodnutí času v novém termínu. Děkujeme za pochopení.](/images/uploads/2019-04-09_setkani_u_kavy_s_personalistou-1-.jpg)
