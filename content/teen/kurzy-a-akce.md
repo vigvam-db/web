@@ -1,10 +1,6 @@
 ---
 title: Kurzy a akce pro teenagery
 ---
-![null](/images/uploads/priprava-na-prijimaci-zkousky_zari-2018-3-.jpg)
-
-
-
 ![](/images/uploads/jpeg.jpg)
 
 \
