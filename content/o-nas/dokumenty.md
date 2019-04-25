@@ -8,7 +8,8 @@ title: Dokumenty
 
 **Výroční zprávy**\
 [2016](/docs/VZ_VIGVAM_2016.pdf)\
-[2017](/docs/VZ_VIGVAM_2017.pdf)
+[2017](/docs/VZ_VIGVAM_2017.pdf)\
+[2018](/docs/VZ_VIGVAM_2018.pdf)
 
 **Burza**\
 [Pravidla burzy](/docs/burza-pravidla-vigvam-2017.pdf)\
