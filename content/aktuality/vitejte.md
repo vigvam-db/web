@@ -1,5 +1,5 @@
 ---
-title: 'Vítejte na nových stránkách organizace VIGVAM, z.ú.'
+title: 'Vítejte na stránkách organizace VIGVAM, z.ú.'
 thumbnail: ''
 weight: 75
 ---
