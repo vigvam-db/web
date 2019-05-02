@@ -1,5 +1,5 @@
 ---
-title: Důležité informace
+title: Zápisy 2019/20
 weight: 78
 ---
-23.4.2019 je zrušen Trénink paměti pro seniory
+![]()
