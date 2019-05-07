@@ -1,5 +1,5 @@
 ---
-title: Sobotní jóga pro zdravou páteř
+title: Cestovatelská beseda o Itálii pro seniory
 weight: 77
 ---
-![](/images/uploads/2019-05-11_vigvam_joga_zdrava_pater.jpg)
+![](/images/uploads/snimek1-2-.jpg)
