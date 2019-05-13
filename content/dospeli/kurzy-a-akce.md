@@ -9,8 +9,6 @@ Podmínky pro kurzy a pro jednorázové akce/ workshopy/ školení organizace VI
 
 ![](/images/uploads/2019-05-30_vigvam_prvni_pomoc.jpg)
 
-![null](/images/uploads/vigvam_joga_a_pilates_2018-1-.jpg)
-
 ![](/images/uploads/vigvam_dospeli_2019.jpg)
 
 ![](/images/uploads/2019_vigvam_beh_pro_zeny.jpg)
