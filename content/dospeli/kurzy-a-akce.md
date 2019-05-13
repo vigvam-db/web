@@ -14,3 +14,5 @@ Podmínky pro kurzy a pro jednorázové akce/ workshopy/ školení organizace VI
 ![](/images/uploads/vigvam_dospeli_2019.jpg)
 
 ![](/images/uploads/2019_vigvam_beh_pro_zeny.jpg)
+
+![](/images/uploads/2019_2020_provoz_ve_skolnim_roce_cb_vigvam.jpg)
