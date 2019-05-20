@@ -1,6 +1,6 @@
 ---
 title: Zápisy a rozvrh
-weight: 86
+weight: 71
 ---
 Do našich kurzů i akcí se můžete přihlásit i v průběhu školního roku pomocí tlačítka v pravém horním rohu- Rezervační systém.\
 Rozvrh ke stažení na II. pol. školního roku 2018/19 [ZDE](/docs/rozvrh-18-19-2pol-vigvam.pdf).\
