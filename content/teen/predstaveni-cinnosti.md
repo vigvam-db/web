@@ -8,3 +8,5 @@ Kurzy a workshopy pro teenagery probíhají v prostorách Regionálního informa
 Popisy kurzů, ceny, časy, informace o lektorech apod. naleznete v našem rezervačním systému, to vše si můžete prohlédnout i bez předchozí registrace.
 
 Těšíme se na všechny TEEN!
+
+![](/images/uploads/2019_2020_vigvam_nabizi_a_pripravuje.jpg)
