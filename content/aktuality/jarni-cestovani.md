@@ -1,7 +1,6 @@
 ---
-title: Letní cestování
+title: Aktuální novinka!
 weight: 76
 ---
-Milí příznivci cestování, ve spolupráci s CK Vegatour  jsme pro Vás připravili  nabídku letních zájezdů. Klienti VIGVAMU mají 5% slevu!!!
-
-![](/images/uploads/snimek1-1-.jpg)
+Milí příznivci naší organizace, s velkou radostí oznamujeme, že VIGVAM expanduje do Ohrobce. V nové tělocvičně v Ohrobci od září nabídneme kurzy pro děti i dospělé. Děti se mohou těšit např. na kurz parkouru, házené či robotiky, dospělí na kurz jógy. \
+Už teď se na všechny těšíme.
