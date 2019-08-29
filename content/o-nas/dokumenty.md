@@ -1,8 +1,7 @@
 ---
 title: Dokumenty
 ---
-[Rozvrh kurzů 1.pololetí 2018-19](/docs/rozvrh-18-19-vigvam.pdf)\
-[Rozvrh kurzů 2.pololetí 2018-19](/docs/rozvrh-18-19-2pol-vigvam.pdf)
+[Rozvrh kurzů na 1. pololetí školního roku 2019/20](https://www.brezanek.cz/assets/1-dokumenty/rozvrh_19_20_1.pol.pdf)
 
 [Podmínky pro kurzy a pro jednorázové akce/ workshopy/ školení organizace VIGVAM, z.ú.](</docs/Podminky_ kurzy_akce_VIGVAM_2018_19.pdf>)
 
