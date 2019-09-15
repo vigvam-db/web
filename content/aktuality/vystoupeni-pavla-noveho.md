@@ -1,6 +1,6 @@
 ---
 title: Vystoupení Pavla Nového
-weight: 70
+weight: 69
 ---
 Vstupenky již v prodeji na recepci Centra Břežánek ( Na Panský 11) nebo v otvíracích hodinách [Infocentra](http://ric-dolnibrezany.cz/oteviraci-doba/).
 
