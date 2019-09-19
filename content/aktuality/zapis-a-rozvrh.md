@@ -1,6 +1,6 @@
 ---
 title: 'Info, zápisy, rozvrh'
-weight: 70
+weight: 50
 ---
 **Rozvrh na 1. pololetí  šk. roku 2019/20 stále upravujeme, finální verzi brzy zveřejníme:-)**Ale veškeré informace jako je místo konání, začátek kurzu nebo zrušení lekce naleznete v našem rezervačním systému.\
 \
