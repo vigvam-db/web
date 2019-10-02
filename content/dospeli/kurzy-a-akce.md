@@ -10,4 +10,4 @@ Podmínky pro kurzy a pro jednorázové akce/ workshopy/ školení organizace VI
 
 ![](/images/uploads/2019-11-12_vigvam-pro-dospele_keramika.jpg)
 
-![](/images/uploads/2019_vigvam_pro_dospele_kaligrafie_navrh_iii.jpg)
+![](/images/uploads/2019_vigvam_pro_dospele_kaligrafie.jpg)
