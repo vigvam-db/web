@@ -14,3 +14,7 @@ Email: vigvamdb@gmail.com
 Tel: 773 619 138
 
 Kontakty na členy našeho týmu naleznete [ZDE](https://www.vigvam-db.cz/o-nas/nas-tym/).
+
+Naše aktivity probíhají v prostorách Kulturního informačního centra a v sále ZUŠ Harmony.
+
+![](/images/uploads/img_8431.jpg)
