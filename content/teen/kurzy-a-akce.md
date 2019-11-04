@@ -6,6 +6,8 @@ V rezervačním systému naleznete také popisy kurzů, ceny, časy,  informace 
 \
 Podmínky pro kurzy a pro jednorázové akce/ workshopy/ školení organizace VIGVAM, z.ú. naleznete v rezervačním systému v záložce Další/Provozní řád.
 
+![](/images/uploads/2019_vgv_teens_kurz_ma_cj.jpg)
+
 ![](/images/uploads/jpeg.jpg)
 
 ![](/images/uploads/2019_vigvam_pro_deti_kaligrafie.jpg)
