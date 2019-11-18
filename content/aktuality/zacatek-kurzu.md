@@ -6,3 +6,5 @@ weight: 12
 
 **Informace pro nové klienty:** Noví klienti se do kurzů pro 2. pololetí (únor-červen 2020) mohou přihlásit prostřednictvím našeho rezervačního systému od 8.1.2020.\
 V případě, že kurz je již obsazen, přihlašte se v rezervačním systému jako náhradník.
+
+![](/images/uploads/zapisy_ii.pol_2019_2020.jpg)
