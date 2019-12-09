@@ -2,4 +2,4 @@
 title: Workshopy kaligrafie pro děti a dospělé
 weight: 75
 ---
-![](/images/uploads/2019-12-06_vgv__vanocni_prani.jpg)
+Po úspěšných říjnových a prosincových workshopech připravujeme pro rok 2020 další zajímavá témata pro workshopy. Sledujte náš web a facebook.
