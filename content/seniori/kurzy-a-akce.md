@@ -8,6 +8,6 @@ Podmínky pro kurzy a pro jednorázové akce/ workshopy/ školení organizace VI
 
 ![](/images/uploads/2019_podzim_zima_vigvam_pro-seniory_program-ii.jpg)
 
-![](/images/uploads/2019_podzim_filmovy_klub_pro_seniory_vgv.jpg)
+![](/images/uploads/2020-03-05_vgv_beseda-tomsova.jpg)
 
 ![](/images/uploads/2020_jaro_filmovy_klub_pro_seniory_vgv.jpg)
