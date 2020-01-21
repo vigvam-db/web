@@ -1,5 +1,5 @@
 ---
-title: Workshopy kaligrafie pro děti a dospělé
+title: Opory v józe
 weight: 75
 ---
-Po úspěšných říjnových a prosincových workshopech připravujeme pro rok 2020 další zajímavá témata pro workshopy. Sledujte náš web a facebook.
+![](/images/uploads/2020-02-08_VGV_opory v józe.jpg)
