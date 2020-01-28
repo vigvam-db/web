@@ -1,6 +1,7 @@
 ---
 title: Důležité informace
-weight: 15
+weight: 7
 ---
+**Ve čtvrtek 30.1.2020 od 19h není jóga s Hankou, lekce bude nahrazena.**\
 Veškeré informace jako je místo konání, začátek kurzu nebo zrušení lekce naleznete v našem rezervačním systému.\
 Do našich kurzů i akcí se můžete přihlásit pomocí tlačítka Rezervační systém v pravém horním rohu. V případě, že Vámi vybraný kurz je již obsazen, zapište se v našem rezervačním systému jako náhradník.
