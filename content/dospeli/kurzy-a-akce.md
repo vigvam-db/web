@@ -6,8 +6,10 @@ V rezervačním systému naleznete také popisy kurzů, ceny, časy,  informace 
 \
 Podmínky pro kurzy a pro jednorázové akce/ workshopy/ školení organizace VIGVAM, z.ú. naleznete v rezervačním systému v záložce Další/Provozní řád.
 
-![](/images/uploads/2020-02-08_VGV_opory v józe.jpg)
+![](/images/uploads/2020-03-12_VGV_první_pomoc_dětem.jpg)
 
-![](/images/uploads/2019_2020_akce_joga.jpg)
+![](/images/uploads/2020-03-14_VGV_intenzivní_jóga_jaro.jpg)
+
+![](/images/uploads/2020_Akce_Jóga_VGV_-_kopie.jpg)
 
 ![](/images/uploads/2020_pohybové kurzy dospělí_VIGVAM.jpg)
