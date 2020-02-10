@@ -3,7 +3,7 @@ title: Důležité informace
 weight: 7
 ---
 **V týdnu od 17.2.2020 nebudou probíhat tyto kurzy:**\
-Pilates, Ranní jógy s Veronikou, Teen jóga, Seniorské cvičení s Veronikou, Jóga pro radost s Hankou, Ranní jóga s Hankou, Flow jóga s Hankou, Jóga pro radost v Ohrobci, Házená v Ohrobci
+Pilates, Ranní jógy s Veronikou, Teen jóga, Seniorské cvičení s Veronikou, Jóga pro radost s Hankou, Ranní jóga s Hankou, Flow jóga s Hankou, Jóga s Ilonou,  Jóga pro radost v Ohrobci, Házená v Ohrobci
 
  **lekce bude nahrazena.**\
 Veškeré informace jako je místo konání, začátek kurzu nebo zrušení lekce naleznete v našem rezervačním systému.\
