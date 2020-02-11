@@ -12,7 +12,7 @@ Podmínky pro kurzy a pro jednorázové akce/ workshopy/ školení organizace VI
 
 ![](/images/uploads/2020_jaro_filmovy_klub_pro_seniory_vgv.jpg)
 
-![](/images/uploads/2020-02-11_VGV_keramika senioři.jpg)
+![](/images/uploads/2020-05-28_obec_db_vgv_jarni_autobusovy_vylet.jpg)
 
 ![](/images/uploads/2020_program_VIGVAM_Senioři.jpg)
 
