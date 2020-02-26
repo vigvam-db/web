@@ -8,6 +8,8 @@ Podmínky pro kurzy a pro jednorázové akce/ workshopy/ školení organizace VI
 
 ![](/images/uploads/2020-03-12_VGV_první_pomoc_dětem.jpg)
 
+![](/images/uploads/2020-03-13_kaligrafie_taska.jpg)
+
 ![](/images/uploads/2020-03-14_VGV_intenzivní_jóga_jaro.jpg)
 
 ![](/images/uploads/2020_Akce_Jóga_VGV_-_kopie.jpg)
