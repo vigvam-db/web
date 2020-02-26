@@ -1,7 +1,7 @@
 ---
-title: Zápisy na 2. pololetí šk. roku 2019/20
+title: Kaligrafie v Centru Břežánek
 weight: 12
 ---
-**Termíny posledních lekcí  kurzů 1. pololetí naleznete [ZDE](https://www.brezanek.cz/aktuality/info.html)**
 
-![](/images/uploads/zapisy_ii.pol_2019_2020.jpg)
+
+![](/images/uploads/2020-03-13_kaligrafie_taska.jpg)
