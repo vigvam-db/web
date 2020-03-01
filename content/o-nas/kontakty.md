@@ -17,4 +17,6 @@ Kontakty na členy našeho týmu naleznete [ZDE](https://www.vigvam-db.cz/o-nas/
 
 Naše aktivity probíhají v prostorách Kulturního informačního centra, v sále ZUŠ Harmony ( ul. Za Radnicí 104, Dolní Břežany) a v tělocvičně a třídách ZŠ v Ohrobci ( ul. V Dolích 5, Ohrobec).
 
+![](/images/uploads/cb_vig_oteviraci-doba.jpg)
+
 ![](/images/uploads/img_8431.jpg)
