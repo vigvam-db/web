@@ -14,6 +14,8 @@ Podmínky pro kurzy a pro jednorázové akce/ workshopy/ školení organizace VI
 
 ![](/images/uploads/received_231050894719164.jpeg)
 
+![](/images/uploads/2020-03-27_vgv_sebeobrana.jpg)
+
 ![](/images/uploads/2020_Akce_Jóga_VGV_-_kopie.jpg)
 
 ![](/images/uploads/2020_pohybové kurzy dospělí_VIGVAM.jpg)
