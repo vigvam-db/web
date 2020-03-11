@@ -10,7 +10,7 @@ Podmínky pro kurzy a pro jednorázové akce/ workshopy/ školení organizace VI
 
 ![]()
 
-![](/images/uploads/2020-03-14_VGV_intenzivní_jóga_jaro.jpg)
+![]()
 
 ![](/images/uploads/received_231050894719164.jpeg)
 
