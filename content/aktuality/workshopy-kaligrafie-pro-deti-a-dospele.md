@@ -1,6 +1,6 @@
 ---
 title: Nákupy pro seniory
-weight: 65
+weight: 9
 ---
 **Telefonní linka je platná od pondělí 16.3.2020 od 9h**
 
