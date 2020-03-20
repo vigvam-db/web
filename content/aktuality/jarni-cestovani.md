@@ -1,6 +1,6 @@
 ---
 title: Vitamíny pro seniory
-weight: 12
+weight: 10
 ---
 **Vitamíny pro seniory z Dolních Břežan.**\
 Chtěli bychom poděkovat firmě Ginesio Plus a.s., která nabídla pomoc ve formě vitamínů pro seniory nad 70let z Dolních Břežan.\
