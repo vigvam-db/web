@@ -1,7 +1,7 @@
 ---
 title: 'Vítejte na stránkách organizace VIGVAM, z.ú.'
 thumbnail: ''
-weight: 6
+weight: 5
 ---
 Najdete zde kurzy a jednorázové akce pro různé věkové kategorie.
 
