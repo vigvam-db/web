@@ -2,6 +2,10 @@
 title: Vitamíny pro seniory
 weight: 8
 ---
+**Počet vitamínů pro seniory byl omezenen a všechny jsou již rozdány!!**\
+**Děkujem všem, kteří se ozvali a přejeme ještě pevnější zdraví.**\
+**Tým VIGVAMu.**
+
 **Vitamíny pro seniory téměř rozebrány!**\
 Ještě jednou děkujeme firmě Ginesio Plus za dar ve formě vitamínů pro seniory z Dolních Břežan.\
 Zbývá rozdat posledních 10 balení, tak nám v případě zájmu rychle zavolejte :-)\
