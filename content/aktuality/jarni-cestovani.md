@@ -3,7 +3,7 @@ title: Vitamíny pro seniory
 weight: 8
 ---
 **Počet vitamínů pro seniory byl omezenen a všechny jsou již rozdány!!**\
-**Děkujem všem, kteří se ozvali a přejeme ještě pevnější zdraví.**\
+**Děkujeme všem, kteří se ozvali a přejeme ještě pevnější zdraví.**\
 **Tým VIGVAMu.**
 
 **Vitamíny pro seniory téměř rozebrány!**\
