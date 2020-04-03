@@ -1,6 +1,6 @@
 ---
 title: Co se nám podařilo?
-weight: 7
+weight: 8
 ---
 Tým VIGVAMu za 10 dní nakoupil a roznesl potravinycelkem 14-ti seniorům .\
 Zajistili jsme roznos 50-ti balení vitamínů pro seniory z Dolních Břežan.\
