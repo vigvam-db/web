@@ -1,6 +1,6 @@
 ---
 title: Vitamíny pro seniory
-weight: 8
+weight: 10
 ---
 **Počet vitamínů pro seniory byl omezenen a všechny jsou již rozdány!!**\
 **Děkujeme všem, kteří se ozvali a přejeme ještě pevnější zdraví.**\
