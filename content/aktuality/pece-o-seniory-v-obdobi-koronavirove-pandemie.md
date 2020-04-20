@@ -1,6 +1,6 @@
 ---
 title: Péče o seniory v období koronavirové pandemie
-weight: 6
+weight: 7
 ---
 Péče o seniory v období kornavirové pandemie\
 Informace naleznete [ZDE](http://dolnibrezany.cz/pece%2Do%2Dseniory%2Dv%2Dobdobi%2Dkoronavirove%2Dpandemie/d-16509)\
