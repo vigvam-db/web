@@ -2,7 +2,12 @@
 title: Důležité informace
 weight: 5
 ---
-**Vážení klienti Centra Břežánek a VIGVAMu, v souvislosti s mimořádným opatřením vlády v boji proti novému typu koronaviru s platností od 11.3.2020 neprobíhají do odvolání v Centru Břežánek a ve VIGVAMu žádné kurzy a akce. Akce Jarní setkání seniorů a Velikonoční trhy je zrušena.** \
-**V případě jakýchkoliv dotazů nás neváhejte kontaktovat.** \
-**Děkujeme za pochopení.** \
+**Milí klienti Centra Břežánek a VIGVAMu,**\
+**dlouhou dobu jsme věřili, že nouzový stav velmi brzy skončí a vše se vrátí**\
+**do normálu. Bohužel situace je taková, že se to pravděpodobně nestane do**\
+**konce tohoto pololetí. Rozhodli jsme se tedy toto pololetí pro kurzy**\
+**ukončit a nabídnout vám několik variant vypořádání.**\
+**Podrobné informace jsme vám zaslali mailem. Pro Centrum Břežánek se jedná**\
+**o mail z 17.4.2020 a pro VIGVAM z 21.4.2020.**\
+**Děkujeme za veškerou spolupráci a přejeme pevné zdraví**\
 **Tým Centra Břežánek a VIGVAMu**
