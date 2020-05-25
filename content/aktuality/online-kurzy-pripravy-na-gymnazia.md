@@ -1,7 +1,7 @@
 ---
-title: Online kurzy přípravy na gymnázia
+title: Změna telefonní linky pro seniory
 weight: 6
 ---
-VIGVAM doporučuje online kurzy přípravy na přijímací zkoušky naší lektorky Mgr. Hany Lukšové. Informace naleznete na http://kurzy.vasklidek.cz/. Podmínky si domluvíte přímo s lektorkou.
-S přáním pěkného dne
-Tým VIGVAMu
+Telefonní linka pro seniory zůstává nadále v provozu na tel čísle: 773 619 139 nebo 773 619 100.\
+Linka je v provozu pondělí- pátek 9-15h.\
+Ocitli jste se ve složité situaci, potřebujete pomoci s nákupem či jinou službou, zavolejte nám. Rádi vám pomůžeme.
