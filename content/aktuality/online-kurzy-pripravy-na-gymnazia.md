@@ -1,7 +1,8 @@
 ---
-title: Změna telefonní linky pro seniory
+title: Zápisy na rok 2020/21
 weight: 6
 ---
-Telefonní linka pro seniory zůstává nadále v provozu na tel čísle: 773 619 139 nebo 773 619 100.\
-Linka je v provozu pondělí- pátek 9-15h.\
-Ocitli jste se ve složité situaci, potřebujete pomoci s nákupem či jinou službou, zavolejte nám. Rádi vám pomůžeme.
+Zápisy na 1. pololetí šk. roku 2020/21 připravujeme. Přesný termín brzy zveřejníme.\
+Naši stálí klienti budou mít opět možnost předzápisu. Informace obdržíte brzy mailem:-)\
+Těšíme se na Vás\
+Tým  VIGVAMu a Centra Břežánek
