@@ -7,3 +7,5 @@ Rozvrh kurzů naleznete[ ZDE ](https://www.brezanek.cz/assets/1-dokumenty/rozvrh
 Informace ke kurzům v Ohrobci zveřejníme v průběhu letních prázdnin.\
 Těšíme se na Vás\
 Tým  VIGVAMu a Centra Břežánek
+
+![](/images/uploads/2020_2021_zapisy_1_pololeti.jpg)
