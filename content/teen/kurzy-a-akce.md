@@ -10,8 +10,8 @@ Podmínky pro kurzy a pro jednorázové akce/ workshopy/ školení organizace VI
 
 ![](/images/uploads/jpeg.jpg)
 
-V tělocvičně v Ohrobci pořádáme kurzy pro děti z 1.-5. tříd.
 
-![](/images/uploads/2020_sportovky_CB[1].jpg)
 
-![](/images/uploads/2020_karate_CB[1].jpg)
+![]()
+
+![]()
