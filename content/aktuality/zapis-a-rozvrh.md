@@ -1,6 +1,6 @@
 ---
 title: Důležité informace
-weight: 5
+weight: 6
 ---
 **Milí klienti Centra Břežánek a VIGVAMu,**\
 **dlouhou dobu jsme věřili, že nouzový stav velmi brzy skončí a vše se vrátí**\
