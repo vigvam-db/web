@@ -14,5 +14,3 @@ se podzimního zájezdu zúčastnit, napište na mail langova@ dolnibrezany.cz .
 ![](/images/uploads/2020-05-28_obec_db_vgv_jarni_autobusovy_vylet.jpg)
 
 ![](/images/uploads/2020_vgv_seniori_kurz-aj_nj.jpg)
-
-![]()
