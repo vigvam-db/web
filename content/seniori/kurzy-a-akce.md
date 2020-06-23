@@ -1,6 +1,8 @@
 ---
 title: Kurzy a akce pro seniory
 ---
+![](/images/uploads/2020_21_cviceni_seniori_vigvam.jpg)
+
 Kurzy a akce pro seniory najdete v našem [rezervačním systému](https://vigvam.webooker.eu/).\
 V Rezervačním systému naleznete také popisy kurzů, ceny, časy,  informace o lektorech apod., to vše si můžete prohlédnout i bez předchozí registrace. \
 \
