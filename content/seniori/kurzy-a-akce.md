@@ -10,6 +10,6 @@ Podmínky pro kurzy a pro jednorázové akce/ workshopy/ školení organizace VI
 
 Jarní autobusový zájezd pro seniory do Červené Lhoty se přesouvá na 1.10.2020. Rezervovaná místa zůstávají v platnosti. V případě, že již máte zaplacený účastnický poplatek a nechcete se podzimního zájezdu zúčastnit, napište na mail langova@ dolnibrezany.cz . Peníze vám budou neprodleně vráceny.
 
-![](/images/uploads/2020-05-28_obec_db_vgv_jarni_autobusovy_vylet.jpg)
+![]()
 
 ![](/images/uploads/2020_vgv_seniori_kurz-aj_nj.jpg)
