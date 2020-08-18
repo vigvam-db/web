@@ -10,10 +10,8 @@ Jarní autobusový zájezd pro seniory do Červené Lhoty se přesouvá na 1.10.
 
 ![](/images/uploads/2020_21_cviceni_seniori_vigvam.jpg)
 
-
-
 ![](/images/uploads/2020_09_03_den-otevrenych-dveri.jpg)
 
-![]()
+![](/images/uploads/2020_vgv_filmovy-klub_seniori_podzim.jpg)
 
 ![](/images/uploads/2020_vgv_seniori_kurz-aj_nj.jpg)
