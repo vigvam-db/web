@@ -1,6 +1,6 @@
 ---
 title: Důležité informace
-weight: 7
+weight: 5
 ---
 Vážení klienti,\
 na základě nařízení vlády, a také proto, že vnímáme vážnost současné situace, upravujeme od pondělí 12. 10. 2020 do 1.11.2020 provoz kurzů VIGVAMu.\
