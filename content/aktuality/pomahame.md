@@ -4,8 +4,8 @@ weight: 5
 ---
 Vážení klienti,\
 na základě nařízení vlády, a také proto, že vnímáme vážnost současné situace, upravujeme od pondělí 12. 10. 2020 do 1.11.2020 provoz kurzů VIGVAMu.\
-Podrobné informace k jednotlivým kurzům obdržíte mailem.\
-Chtěli bychom Vás ujistit, že o zaplacené finance nepřijdete, zrušené lekce budou posunuty na konec stávajícího pololetí.\
+Podrobné informace k jednotlivým kurzům obdržíte mailem. Návod pro spuštění online lekcí naleznete[ ZDE](https://www.brezanek.cz/assets/1-dokumenty/online%20lekce%20n%C3%A1vod.pdf).\
+Chtěli bychom Vás ujistit, že o zaplacené finance nepřijdete, zrušené lekce, které nepřechází do online výuky budou posunuty na konec stávajícího pololetí.\
 \
 Děkujeme za pochopení a přejeme pevné zdraví\
 Tým VIGVAMu
