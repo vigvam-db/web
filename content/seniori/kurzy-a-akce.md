@@ -6,7 +6,7 @@ V Rezervačním systému naleznete také popisy kurzů, ceny, časy,  informace 
 \
 Podmínky pro kurzy a pro jednorázové akce/ workshopy/ školení organizace VIGVAM, z.ú. naleznete v rezervačním systému v záložce Další/Provozní řád.
 
-Jarní autobusový zájezd pro seniory do Červené Lhoty se přesouvá na 1.10.2020. Rezervovaná místa zůstávají v platnosti. V případě, že již máte zaplacený účastnický poplatek a nechcete se podzimního zájezdu zúčastnit, napište na mail langova@ dolnibrezany.cz . Peníze vám budou neprodleně vráceny.
+Autobusový zájezd pro seniory do Červené Lhoty je zrušen. O vrácení účastnického poplatku napište na mail langova@ dolnibrezany.cz . 
 
 ![](/images/uploads/2020-12-11_vgv_sen_predvanocni_posezeni.jpg)
 
