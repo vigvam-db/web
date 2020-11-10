@@ -13,6 +13,6 @@ Těšíme se na Vás
 
 ![](/images/uploads/2019_2020_vigvam_nabizi_a_pripravuje.jpg)
 
-![](/images/uploads/2020_vgv_nakupy-pro-seniory_bez-skoleni-pc.jpg)
+![]()
 
-![](/images/uploads/snimek1-3-.jpg)
+![](/images/uploads/0001-22-.jpg)
