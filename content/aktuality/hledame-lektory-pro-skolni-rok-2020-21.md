@@ -1,6 +1,6 @@
 ---
 title: Vánoční skřítek- soutěž
-weight: 9
+weight: 2
 ---
 ![](/images/uploads/skritek.jpg)
 
