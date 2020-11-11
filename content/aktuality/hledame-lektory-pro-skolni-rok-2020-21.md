@@ -11,3 +11,5 @@ Přejeme hodně radosti při tvoření.
 Tipy na výrobu vánočního skřítka:\
 Na [Pinerestu](https://cz.pinterest.com/) neleznete plno tipů na cokoli, z Youtube doporučejeme toto [Tip 1](https://www.youtube.com/watch?v=2r4AqlwhGus) ,[Tip 2,](https://www.youtube.com/watch?v=XLm7coWE0OU&t=74s) [Tip 3,](https://www.youtube.com/watch?v=U2BTSxsbiaM) [Tip 4](https://www.youtube.com/watch?v=5-Fv2IwRZiI) , a poslední tip naleznete [zde](https://primadoma.tv/video-145211-vychytany-vanocni-skritek-z-polinka).\
 Budeme rádi za vaše tipy na výrobu, napište nám:-)
+
+![](/images/uploads/2020_12_soutez_vanocni_skritek.jpg)
