@@ -2,8 +2,6 @@
 title: Vánoční skřítek- soutěž
 weight: 2
 ---
-![]()
-
 Vyhlašujeme soutěž o nejhezčího vánočního skřítka, zapojit se mohou děti, dospělí i senioři. Vyrobte si doma vánočního skřítka, můžete použít libovolné materiály- zbytky látek i přírodniny. Obrázky skřítků nám pošlete do 6.12.2020 na mail: brezanek@brezanek.cz. nebo na vigvamdb@gmail.com\
 Hlasování proběhne na facebooku od 8.12.2020 do 13.12.2020. Pro vítěze máme připravené odměny:-)\
 Přejeme hodně radosti při tvoření.
