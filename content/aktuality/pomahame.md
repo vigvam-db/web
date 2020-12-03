@@ -8,4 +8,4 @@ Připomínáme, že o zaplacené finance za pozastavené kurzy nepřijdete, zru�
 Děkujeme za pochopení a přejeme pevné zdraví
 Tým VIGVAMu
 
-![](/images/uploads/vigvam_500x408.png)
+![](/images/uploads/vigva-_200100.png)
