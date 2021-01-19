@@ -6,6 +6,8 @@ V rezervačním systému naleznete také popisy kurzů, ceny, časy,  informace 
 \
 Podmínky pro kurzy a pro jednorázové akce/ workshopy/ školení organizace VIGVAM, z.ú. naleznete v rezervačním systému v záložce Další/Provozní řád.
 
+![](/images/uploads/2021_cb_vig_duskova_konzultace.jpg)
+
 ![](/images/uploads/2020_vgv_dospeli_kurz-back-to-work.jpg)
 
 ![](/images/uploads/2020_21_pohybove-kurzy-dospeli_vigvam.jpg)
