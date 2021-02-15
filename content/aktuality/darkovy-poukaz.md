@@ -1,6 +1,6 @@
 ---
 title: Dárkový poukaz
-weight: 5
+weight: 7
 ---
 Milí klienti,\
 připravili jsme pro vás novinku v podobě Dárkového poukazu na kurzy Centra Břežánek nebo VIGVAMu.\
