@@ -1,7 +1,7 @@
 ---
 title: Onl-line příprava na pohovor
 thumbnail: ""
-weight: 4
+weight: 6
 ---
 Rádi byste si popovídali o svém dalším směřování v kariéře nebo se obáváte návratu do práce? Chtěli byste se zodpovědně připravit na pohovor?\
 Pojďme Vaši situaci probrat doma u kávy prostřednictvím on-line konzultace. A pro klienty  VIGVAMu a Centra Břežánek máme 10% slevu.\
