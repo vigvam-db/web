@@ -1,7 +1,7 @@
 ---
 title: Pracovní sešit Tréninků paměti
 thumbnail: ""
-weight: 100
+weight: 5
 ---
 [Mám zájem](https://vigvam.webooker.eu/Actions) o pracovní sešit.
 
