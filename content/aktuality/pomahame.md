@@ -1,6 +1,6 @@
 ---
 title: Informace ke kurzům
-weight: 4
+weight: 2
 ---
 Milí klienti VIGVAMu,\
 v souvislosti s aktuálním nařízením vlády zatím neprobíhají žádné kurzy. Kurzy, které doposud probíhaly online zůstávají i nadále v online režimu. Kurzy jógy pro dospělé běží v online režimu. Návod pro spuštění online lekcí naleznete[ ZDE](https://www.brezanek.cz/assets/1-dokumenty/online%20lekce%20n%C3%A1vod.pdf).\
