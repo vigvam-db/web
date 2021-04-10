@@ -1,8 +1,5 @@
 ---
-title: Březnové vydání pracovního sešitu Trénink paměti
+title: Dubnové vydání pracovního sešitu Trénink paměti již brzy
 weight: 3
 ---
-Novinka! Nyní můžete objednat také předplatné za zvýhodněnou cenu.\
-Vydání č. 3-8/ 540 Kč.
-
-![](/images/uploads/brezen_pamet.jpg)
+Dubnové vydání bude brzy v prodeji. Pokud se vám úkoly líbí,  můžete objednat také předplatné za zvýhodněnou cenu. Předplatné zahrnuje vydání č. 3-8 za cenu 540 Kč.
