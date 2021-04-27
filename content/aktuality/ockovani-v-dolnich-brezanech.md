@@ -2,6 +2,4 @@
 title: Očkování v Dolních Břežanech
 weight: 2
 ---
-Ve čtvrtek 8. dubna proběhlo v areálu základní školy očkování 2. dávkou vakcíny proti COVID-19 určené seniorům 70+. Očkování zajistila obec Dolní Břežany ve spolupráci se Státním zdravotním ústavem a **naší organizací VIGVAM**.   Pro seniory jsme připravili a předali dáreček, rádi děláme radost.  \
-Vzhledem k velkému zájmu se obec DB snaží  zajistit další termín očkování a předběžně je  přislíben čtvrtek 6. 5. 2021. Jakmile bude termín ze strany Státního zdravotního ústavu finálně potvrzen, bude spuštěna možnost telefonických rezervací. \
-Fotografie z předešlého očkování naleznete v naší [fotogalerii](https://www.zonerama.com/vigvam/Album/7110539).
+Ve čtvrtek 6. května proběhne v areálu základní školy další očkování proti COVID-19 určené věkové kategorii 60+. Očkování zajistila obec Dolní Břežany ve spolupráci se Státním zdravotním ústavem a **naší organizací VIGVAM**.
