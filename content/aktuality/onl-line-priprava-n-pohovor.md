@@ -1,10 +1,9 @@
 ---
-title: Onl-line příprava na pohovor
+title: Hormonální jóga online
 thumbnail: ""
 weight: 6
 ---
-Rádi byste si popovídali o svém dalším směřování v kariéře nebo se obáváte návratu do práce? Chtěli byste se zodpovědně připravit na pohovor?\
-Pojďme Vaši situaci probrat doma u kávy prostřednictvím on-line konzultace. A pro klienty  VIGVAMu a Centra Břežánek máme 10% slevu.\
-Podrobnosti naleznete [ZDE](https://vigvam.webooker.eu/Courses?semesterID=10651).
+**Harmonie díky hormonální jógové terapii**
 
-![](/images/uploads/2021_cb_vig_duskova_konzultace.jpg)
+Nemůžeme se vidět osobně, proto jsme pro vás s naší lektorkou Veronikou Niplovou připravili 2x2h online kurz hormonální jógy. \
+Podrobnosti naleznete v našem [rezervačním systému](https://vigvam.webooker.eu/Courses?semesterID=10547).
