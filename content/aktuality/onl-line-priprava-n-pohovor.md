@@ -1,7 +1,7 @@
 ---
 title: Hormonální jóga online
 thumbnail: ""
-weight: 6
+weight: 3
 ---
 **Harmonie díky hormonální jógové terapii**
 
