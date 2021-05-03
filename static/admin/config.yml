@@ -65,6 +65,12 @@ collections:
         fields:
           - {label: "Nadpis", name: "title", widget: "string"}
           - {label: "Text", name: "body", widget: "markdown"}
+      - file: "content/seniori/zajimave-tipy.md"
+        label: "Zajímaví tipy"
+        name: "zajimave-tipy"
+        fields:
+          - {label: "Nadpis", name: "title", widget: "string"}
+          - {label: "Text", name: "body", widget: "markdown"}
   - name: "o-nas" # Used in routes, ie.: /admin/collections/:slug/edit
     label: "O nás" # Used in the UI, ie.: "New Post"
     files:
