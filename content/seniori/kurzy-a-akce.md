@@ -8,7 +8,7 @@ Podmínky pro kurzy a pro jednorázové akce/ workshopy/ školení organizace VI
 
 Autobusový zájezd pro seniory do Červené Lhoty je zrušen. O vrácení účastnického poplatku napište na mail langova@ dolnibrezany.cz . 
 
-![](/images/uploads/pamet_publikace.jpg)
+![](/images/uploads/pamet_publikace-2-.jpg)
 
 ![](/images/uploads/2020_21_cviceni_seniori_vigvam-1-.jpg)
 
