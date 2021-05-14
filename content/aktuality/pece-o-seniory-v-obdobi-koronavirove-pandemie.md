@@ -1,5 +1,5 @@
 ---
-title: "Péče o seniory "
+title: Zápisy do kurzů
 weight: 8
 ---
-![](/images/uploads/0001-22-.jpg)
+![](/images/uploads/vigvam_zapisy.jpg)
