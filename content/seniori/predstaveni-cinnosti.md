@@ -11,7 +11,7 @@ Popisy kurzů, ceny, časy, informace o lektorech apod. naleznete v našem rezer
 
 Těšíme se na Vás
 
-![](/images/uploads/2019_2020_vigvam_nabizi_a_pripravuje.jpg)
+![]()
 
 ![]()
 
