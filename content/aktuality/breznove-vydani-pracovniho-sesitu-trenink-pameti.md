@@ -1,7 +1,7 @@
 ---
-title: Dubnový sešit tréninku paměti již v prodeji!
+title: Květnový sešit tréninku paměti již v prodeji!
 weight: 4
 ---
 Dubnové vydání bude brzy v prodeji. Pokud se vám úkoly líbí,  můžete objednat také předplatné za zvýhodněnou cenu. Předplatné zahrnuje vydání č. 3-8 za cenu 540 Kč.
 
-![](/images/uploads/duben_pamet.jpg)
+![](/images/uploads/pamet_sesit.jpg)
