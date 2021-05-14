@@ -10,6 +10,6 @@ Autobusový zájezd pro seniory do Červené Lhoty je zrušen. O vrácení úča
 
 ![](/images/uploads/pamet_publikace-2-.jpg)
 
-![](/images/uploads/2020_21_cviceni_seniori_vigvam-1-.jpg)
+![]()
 
-![](/images/uploads/2020_vgv_seniori_kurz-aj_nj.jpg)
+![]()
