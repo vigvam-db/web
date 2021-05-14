@@ -1,5 +1,5 @@
 ---
-title: Co nabízíme pro seniory
+title: Co nabízíme
 ---
 Nebuďte sami a přijďte aktivně trávit svůj čas. \
 Na jednotlivé akce je potřeba se přihlásit pomocí rezervačního systému nebo osobně na  recepci VIGVAMu v Kulturním a  informačním centru (Na Panský 11, Dolní Břežany, 1. patro) každé úterý od 10.00 – 12.00h. O letních prázdninách pouze na telefonu 737 139 817.
