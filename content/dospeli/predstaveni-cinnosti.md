@@ -9,4 +9,4 @@ Podmínky pro kurzy a pro jednorázové akce/ workshopy/ školení organizace VI
 
 Těšíme se na Vás!
 
-![](/images/uploads/2019_2020_vigvam_nabizi_a_pripravuje.jpg)
+![](/images/uploads/pro_dospele-1-.jpg)
