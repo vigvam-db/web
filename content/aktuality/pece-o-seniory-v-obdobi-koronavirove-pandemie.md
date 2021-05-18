@@ -1,5 +1,5 @@
 ---
 title: Zápisy do kurzů
-weight: 8
+weight: 3
 ---
 ![](/images/uploads/vigvam_zapisy.jpg)
