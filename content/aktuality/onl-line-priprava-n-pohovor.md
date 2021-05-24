@@ -1,8 +1,12 @@
 ---
 title: Jógové červnové novinky
-thumbnail: /images/uploads/joga_web.jpg
+thumbnail: ""
 weight: 3
 ---
+
+
+![](/images/uploads/joga_web.jpg)
+
 Milí milovníci jógy,\
 na červen jsme pro vás připravili minikurz [Dýchám, tedy jsem](https://www.vigvam-db.cz/dospeli/kurzy-a-akce/). \
 5 lekcí vždy ve středu  od 9, 45h v tělocvične Infocentra v Dolních Břežanech.\
