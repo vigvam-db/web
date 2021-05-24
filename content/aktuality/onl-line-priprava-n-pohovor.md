@@ -3,8 +3,6 @@ title: Jógové červnové novinky
 thumbnail: ""
 weight: 3
 ---
-
-
 ![](/images/uploads/joga_web.jpg)
 
 Milí milovníci jógy,\
