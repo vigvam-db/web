@@ -11,6 +11,11 @@ Těšíme se na Vás
 
 ![](/images/uploads/pro_seniory.jpg)
 
-![]()
-
 ![](/images/uploads/0001-22-.jpg)
+
+### Zajímavé tipy pro Vás:
+
+[Květen 2021](/docs/tipy-seniori-2021-05.pdf)\
+[Duben 2021](/docs/tipy-seniori-2021-04.pdf)\
+[Březen 2021](/docs/tipy-seniori-2021-03.pdf)\
+[Únor 2021](/docs/tipy-seniori-2021-02.pdf)
