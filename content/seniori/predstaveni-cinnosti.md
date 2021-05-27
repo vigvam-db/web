@@ -11,8 +11,7 @@ Ukázka zajímavých tipů pro seniory:
 
 [Květen 2021](/docs/tipy-seniori-2021-05.pdf)\
 [Duben 2021](/docs/tipy-seniori-2021-04.pdf)\
-[Březen 2021](/docs/tipy-seniori-2021-03.pdf)\
-[Únor 2021](/docs/tipy-seniori-2021-02.pdf)
+[Březen 2021](/docs/tipy-seniori-2021-03.pdf)
 
 Těšíme se na Vás
 
