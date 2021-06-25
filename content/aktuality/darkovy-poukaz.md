@@ -2,9 +2,9 @@
 title: Dárkový poukaz
 weight: 101
 ---
-Milí klienti,\
-připravili jsme pro vás novinku v podobě Dárkového poukazu na kurzy Centra Břežánek nebo VIGVAMu.\
+
+
+![](/images/uploads/baner_poukaz_vig.jpg)
+
 Dárkový poukaz v různých hodnotách můžete zakoupit pomocí Rezervačního systému.\
 Dárkovým poukazem jistě uděláte radost:-)
-
-![](/images/uploads/vgv_darkovy-poukaz_500_ram.jpg)
