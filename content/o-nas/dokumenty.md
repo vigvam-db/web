@@ -1,7 +1,7 @@
 ---
 title: Dokumenty
 ---
-[Podmínky pro kurzy a pro jednorázové akce/ workshopy/ školení organizace VIGVAM, z.ú.](/docs/Podminky_kurzy_akce_VIGVAM_2020_21.pdf)
+[](/docs/Podminky_kurzy_akce_VIGVAM_2020_21.pdf)Podmínky pro kurzy a naše akce naleznete v našem [rezervačním systému](https://vigvam.webooker.eu/HtmlContent?contentType=2).
 
 [Provozní řád](/docs/provozni_rad_vigvam_2020.pdf)
 
