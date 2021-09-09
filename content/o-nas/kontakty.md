@@ -11,7 +11,7 @@ IČO: 04678443
 
 Email: vigvamdb@gmail.com
 
-Tel: 773 619 138
+Tel: 773 619 138,  773 619 100
 
 Kontakty na členy našeho týmu naleznete [ZDE](https://www.vigvam-db.cz/o-nas/nas-tym/).
 
