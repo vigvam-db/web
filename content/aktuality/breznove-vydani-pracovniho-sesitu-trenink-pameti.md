@@ -1,7 +1,8 @@
 ---
 title: "Sešit tréninku paměti "
-weight: 3
+weight: 5
 ---
-![](/images/uploads/baner_pamet_vig.jpg)
+Sešity tréninků paměti budou nově vycházet vždy 1x za dva měsíce. Nový sešit můžete očekávat v říjnu 2021.  [Objednat](https://vigvam.webooker.eu/Actions) můžete  také předplatné za zvýhodněnou cenu. \
+O každém novém vydání všechny předplatile informujeme.  Na předání se vždy domluvíme:-)
 
-Pokud se vám úkoly líbí,  můžete [objednat](https://vigvam.webooker.eu/Actions) také předplatné za zvýhodněnou cenu. Předplatné zahrnuje vydání č. 3-8 za cenu 540 Kč. O každém novém vydání všechny předplatile informujeme.  Na předání se vždy domluvíme:-)
+![](/images/uploads/baner_pamet_vig.jpg)
