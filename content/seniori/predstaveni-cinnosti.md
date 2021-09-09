@@ -11,4 +11,8 @@ Ukázka zajímavých tipů pro seniory:
 
 ![](/images/uploads/web_aj_senior.jpg)
 
+
+
+
+
 ![](/images/uploads/0001-22-.jpg)
