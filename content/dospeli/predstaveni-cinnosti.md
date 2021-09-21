@@ -6,3 +6,5 @@ title: Co nabízíme pro dospělé
 ![](/images/uploads/aj_dosp.jpg)
 
 ![](/images/uploads/baner_hormonalka.jpg)
+
+![](/images/uploads/baner_francouzstina.jpg)
