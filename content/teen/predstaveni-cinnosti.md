@@ -1,6 +1,6 @@
 ---
 title: Co nabízíme pro teenagery
 ---
-
-
 ![](/images/uploads/web_teen.jpg)
+
+![](/images/uploads/baner_cj.jpg)
