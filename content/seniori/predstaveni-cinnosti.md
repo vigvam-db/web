@@ -9,6 +9,8 @@ Akce proběhne v souladu s vládními protiepidemickými předpisy. Vstup na a
 
 ![](/images/uploads/web_aj_senior.jpg)
 
+![](/images/uploads/prvni_pomoc.jpg)
+
 ![](/images/uploads/0001-22-.jpg)
 
 Ukázka zajímavých tipů pro seniory:
