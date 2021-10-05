@@ -1,6 +1,6 @@
 ---
 title: Francouzština pro dospělé
-weight: 6
+weight: 7
 ---
 Kurzy francouzštiny nabídneme již od listopadu 2021. \
 [Zapsat](https://vigvam.webooker.eu/) na kurz se můžete již nyní.
