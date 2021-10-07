@@ -7,6 +7,6 @@ title: Co nabízíme pro dospělé
 
 ![](/images/uploads/prvni_pomoc.jpg)
 
-![](/images/uploads/baner_hormonalka.jpg)
+![](/images/uploads/baner_hormonalka-1-.jpg)
 
 ![](/images/uploads/baner_francouzstina.jpg)
