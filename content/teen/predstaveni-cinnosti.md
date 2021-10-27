@@ -1,5 +1,5 @@
 ---
-title: Co nabízíme pro teenagery
+title: Pro teen
 ---
 ![](/images/uploads/teen_web.jpg)
 
