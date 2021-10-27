@@ -1,7 +1,7 @@
 ---
-title: Co nabízíme pro dospělé
+title: Rádi cvičíme a vzděláváme se
 ---
-![](/images/uploads/pro_dospele-2-.jpg)
+![](/images/uploads/dosp_web.jpg)
 
 ![](/images/uploads/konverzace_aj.jpg)
 
