@@ -1,6 +1,6 @@
 ---
 title: "Příprava na přijímací zkoušky "
-weight: 4
+weight: 8
 ---
 [Rezervace](https://vigvam.webooker.eu/)  na přípravné kurzy z českého jazyka již nyní.
 
