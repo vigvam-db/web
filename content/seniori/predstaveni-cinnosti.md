@@ -1,11 +1,7 @@
 ---
-title: Co nabízíme seniorům
+title: Nebuďte sami, přijďte do VIGVAMu
 ---
-![](/images/uploads/vig_web_senior.jpg)
-
-Akce proběhne v souladu s vládními protiepidemickými předpisy. Vstup na akci bude možný pouze s platným očkovacím certifikátem, potvrzením o prodělání nemoci COVID19, negativním PCR či antigenním testem. 
-
-![](/images/uploads/baner_setkani.jpg)
+![](/images/uploads/senior_web.jpg)
 
 ![](/images/uploads/web_aj_senior.jpg)
 
