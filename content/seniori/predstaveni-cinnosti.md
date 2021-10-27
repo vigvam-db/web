@@ -1,5 +1,5 @@
 ---
-title: Nebuďte sami a přijďte
+title: Senioři si u nás vyberou
 ---
 ![](/images/uploads/senior_web-1-.jpg)
 
