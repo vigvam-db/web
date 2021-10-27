@@ -1,6 +1,6 @@
 ---
 title: Anglická konverzace pro dospělé
-weight: 4
+weight: 6
 ---
 Hledáte kurz, kde si zlepšíte ANGLIČTINU? Chtěli byste více využívat ANGLIČTINU,
 
