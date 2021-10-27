@@ -1,6 +1,6 @@
 ---
 title: Hormonální jóga
-weight: 5
+weight: 2
 ---
 Seminář pod vedením naší skvělé lektorky Veroniky doporučujeme  všem ženám.[ Objednejte](https://vigvam.webooker.eu/) se co nejdříve.
 
