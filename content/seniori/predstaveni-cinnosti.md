@@ -1,7 +1,7 @@
 ---
 title: Nebuďte sami a přijďte
 ---
-![](/images/uploads/senior_web.jpg)
+![](/images/uploads/senior_web-1-.jpg)
 
 ![](/images/uploads/web_aj_senior.jpg)
 
