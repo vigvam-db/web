@@ -1,5 +1,5 @@
 ---
-title: Nebuďte sami, přijďte do VIGVAMu
+title: Nebuďte sami a přijďte
 ---
 ![](/images/uploads/senior_web.jpg)
 
