@@ -1,5 +1,5 @@
 ---
-title: Pro teen
+title: Mrkněte na naší teen nabídku
 ---
 ![](/images/uploads/teen_web.jpg)
 
