@@ -1,8 +1,7 @@
 ---
-title: Poskytování první pomoci dětem
+title: Burza v Centru Břežánek
 weight: 4
 ---
-Přijďte si zopakovat základy první pomoci se záchranářkou z organizace READY2HELP.\
-Místo si [objednejte](https://vigvam.webooker.eu/Actions) již nyní.
+Chcete skvěle nakoupit nebo prodat dětské či dospělácké zimní oblečení? Podrobnosti naleznete v [Centru Brežánek](https://www.brezanek.cz/akce/), naší partnerské organizaci.
 
-![](/images/uploads/prvni_pomoc.jpg)
+![](/images/uploads/baner_burza-1-.jpg)
