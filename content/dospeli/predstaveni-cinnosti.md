@@ -7,7 +7,7 @@ title: Rádi cvičíme a vzděláváme se
 
 ![](/images/uploads/konverzace_aj-1-.jpg)
 
-![](/images/uploads/prvni_pomoc.jpg)
+![](/images/uploads/prvni_pomoc-1-.jpg)
 
 ![](/images/uploads/baner_hormonalka-1-.jpg)
 
