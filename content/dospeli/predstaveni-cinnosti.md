@@ -11,4 +11,4 @@ title: Rádi cvičíme a vzděláváme se
 
 ![](/images/uploads/baner_hormonalka-1-.jpg)
 
-![](/images/uploads/baner_francouzstina.jpg)
+![](/images/uploads/baner_francouzstina-1-.jpg)
