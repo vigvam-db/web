@@ -1,7 +1,5 @@
 ---
-title: Angličtina pro seniory
-weight: 5
+title: Zapisy na 2. pololetí 2021/22
+weight: 1
 ---
-Rezervujte si [ZDE](https://vigvam.webooker.eu/) místo, pokud si nebudete vědět rady, [zatelefonujte](https://www.vigvam-db.cz/o-nas/kontakty/) nám.
-
-![](/images/uploads/web_aj_senior.jpg)
+![](/images/uploads/vigvam_zapisy_2_pol_22.jpg)
