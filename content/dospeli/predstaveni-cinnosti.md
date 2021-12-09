@@ -5,7 +5,7 @@ title: Rádi cvičíme a vzděláváme se
 
 Na všechny naše aktivity se můžete přihlásit v našem [rezervačním systému](https://vigvam.webooker.eu/).
 
-![](/images/uploads/baner_hormonalka-2-.jpg)
+![]()
 
 ![](/images/uploads/konverzace_aj-1-.jpg)
 
