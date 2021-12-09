@@ -1,6 +1,6 @@
 ---
 title: Nová opatření od 22.11.2021
-weight: 2
+weight: 3
 ---
 Milí návštěvníci VIGVAMu,\
 od pondělí 22.11.2021 platí nová [](https://covid.gov.cz/situace/volny-cas/materska-centra-ddm)vládní opatření.\
