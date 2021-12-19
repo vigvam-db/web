@@ -1,5 +1,5 @@
 ---
-title: Nová opatření od 22.11.2021
+title: Informace ke kurzům
 weight: 3
 ---
 Milí návštěvníci VIGVAMu,\
