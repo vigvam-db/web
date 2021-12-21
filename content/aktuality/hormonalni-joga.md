@@ -3,8 +3,7 @@ title: Informace ke kurzům
 weight: 3
 ---
 Milí návštěvníci VIGVAMu,\
-od pondělí 22.11.2021 platí nová [](https://covid.gov.cz/situace/volny-cas/materska-centra-ddm)vládní opatření.\
-Pro kurzy pro mládež platí [následující pravidla](ttps://covid.gov.cz/situace/podnikatelska-cinnost/povinne-testovani-zamestnancu-na-pracovistich-osvc).  Vzhledem k tomu, že kapacita našich jednotlivých kurzů  pro mládež nepřesahuje 20 osob, nebudeme od vás požadovat žádné potvrzení.\
+pro kurzy pro mládež platí [následující pravidla](ttps://covid.gov.cz/situace/podnikatelska-cinnost/povinne-testovani-zamestnancu-na-pracovistich-osvc).  Vzhledem k tomu, že kapacita našich jednotlivých kurzů  pro mládež nepřesahuje 20 osob, nebudeme od vás požadovat žádné potvrzení.\
 U kurzů pro dospělé je  nutné dodržet systém O-N ( očkování- nemoc)V. [Zde](https://covid.gov.cz/situace/volny-cas/dalsi-sporty) naleznete podrobnosti. \
 Velmi vás prosíme, o dodržování hygienických opatření- noste respirátor a používejte dezinfekci rukou, choďte k nám zdraví. 
 
