@@ -9,8 +9,6 @@ title: Senioři si u nás vyberou
 
 ![](/images/uploads/baner_hormonalka-3-.jpg)
 
-![](/images/uploads/prvni_pomoc.jpg)
-
 ![](/images/uploads/baner_pamet_vig-1-.jpg)
 
 ![](/images/uploads/0001-22-.jpg)
