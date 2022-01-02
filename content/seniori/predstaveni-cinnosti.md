@@ -5,7 +5,7 @@ title: Senioři si u nás vyberou
 
 ![](/images/uploads/web_aj_senior.jpg)
 
-![](/images/uploads/baner_hormonalka-1-.jpg)
+![](/images/uploads/baner_hormonalka-3-.jpg)
 
 ![](/images/uploads/prvni_pomoc.jpg)
 
