@@ -7,6 +7,8 @@ Na všechny naše aktivity se můžete přihlásit v našem [rezervačním syst�
 
 ![](/images/uploads/baner_pilates.jpg)
 
+![](/images/uploads/baner_hormonalka-1-.jpg)
+
 ![]()
 
 ![](/images/uploads/konverzace_aj-1-.jpg)
