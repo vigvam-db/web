@@ -7,7 +7,7 @@ Na všechny naše aktivity se můžete přihlásit v našem [rezervačním syst�
 
 ![](/images/uploads/baner_pilates.jpg)
 
-![](/images/uploads/baner_hormonalka-1-.jpg)
+![](/images/uploads/baner_hormonalka-3-.jpg)
 
 ![]()
 
@@ -15,6 +15,6 @@ Na všechny naše aktivity se můžete přihlásit v našem [rezervačním syst�
 
 ![](/images/uploads/prvni_pomoc-1-.jpg)
 
-![](/images/uploads/baner_hormonalka-1-.jpg)
+![]()
 
 ![](/images/uploads/baner_francouzstina-1-.jpg)
