@@ -1,6 +1,6 @@
 ---
 title: Pilates od února 2022
-weight: 2
+weight: 3
 ---
 Do nabídky opět zařazujem Pilates, přidejte se!
 
