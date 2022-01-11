@@ -1,6 +1,6 @@
 ---
 title: Informace ke kurzům
-weight: 5
+weight: 6
 ---
 Milí návštěvníci VIGVAMu,\
 pro kurzy pro mládež platí [následující pravidla](ttps://covid.gov.cz/situace/podnikatelska-cinnost/povinne-testovani-zamestnancu-na-pracovistich-osvc).  Vzhledem k tomu, že kapacita našich jednotlivých kurzů  pro mládež nepřesahuje 20 osob, nebudeme od vás požadovat žádné potvrzení.\
