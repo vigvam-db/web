@@ -13,6 +13,8 @@ title: Senioři si u nás vyberou
 
 ![](/images/uploads/baner_pamet_vig-1-.jpg)
 
+Sešity tréninků paměti vychází  vždy 1x za dva měsíce.   [Objednat](https://vigvam.webooker.eu/Actions) můžete  také předplatné za zvýhodněnou cenu. O každém novém vydání všechny předplatile informujeme.  Na předání se vždy domluvíme:-)
+
 ![](/images/uploads/0001-22-.jpg)
 
 Ukázka zajímavých tipů pro seniory:
