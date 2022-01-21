@@ -5,7 +5,7 @@ title: Senioři si u nás vyberou
 
 ![](/images/uploads/web_aj_senior.jpg)
 
-![](/images/uploads/face_joga.jpg)
+![](/images/uploads/face.jpg)
 
 ![](/images/uploads/baner_hormonalka-3-.jpg)
 
