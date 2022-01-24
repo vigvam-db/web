@@ -11,6 +11,10 @@ title: Senioři si u nás vyberou
 
 ![](/images/uploads/baner_hormonalka-3-.jpg)
 
+Na hudební akci je nutné se objednat na tel čísle 773 619 100 ve všední dny 10-15h.
+
+![](/images/uploads/seniori_2022_baner.jpg)
+
 ![](/images/uploads/baner_pamet_vig-1-.jpg)
 
 Sešity tréninků paměti vychází  vždy 1x za dva měsíce.   [Objednat](https://vigvam.webooker.eu/Actions) můžete  také předplatné za zvýhodněnou cenu. O každém novém vydání všechny předplatile informujeme.  Na předání se vždy domluvíme:-)
