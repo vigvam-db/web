@@ -1,6 +1,6 @@
 ---
 title: Jak na chytrý telefon a tablet?
-weight: 6
+weight: 5
 ---
 
 
