@@ -11,9 +11,11 @@ title: Senioři si u nás vyberou
 
 ![](/images/uploads/baner_hormonalka-3-.jpg)
 
-Na hudební akci je nutné se objednat na tel čísle 773 619 100 ve všední dny 10-15h.
+Na hudební akci a seminář "Jak na telefon a tablet" je nutné se objednat na tel čísle 773 619 100 ve všední dny 10-15h.
 
 ![](/images/uploads/seniori_2022_baner.jpg)
+
+![](/images/uploads/senior_pc-72-24-in-.jpg)
 
 ![](/images/uploads/baner_pamet_vig-1-.jpg)
 
