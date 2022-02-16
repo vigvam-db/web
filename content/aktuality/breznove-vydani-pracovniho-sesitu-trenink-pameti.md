@@ -1,6 +1,6 @@
 ---
 title: FACE YOGA
-weight: 3
+weight: 4
 ---
 Neváhejte a místo na kurz FACE YOGA s Veronikou si [rezervujte](https://vigvam.webooker.eu/Actions) již nyní.
 
