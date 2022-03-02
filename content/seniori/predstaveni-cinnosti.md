@@ -9,6 +9,8 @@ title: Senioři si u nás vyberou
 
 ![](/images/uploads/face.jpg)
 
+![](/images/uploads/den_zdravi_new-72-24-in-.jpg)
+
 ![](/images/uploads/baner_hormonalka-3-.jpg)
 
 Na hudební akci a seminář "Jak na telefon a tablet" je nutné se objednat na tel čísle 773 619 100 ve všední dny 10-15h.
