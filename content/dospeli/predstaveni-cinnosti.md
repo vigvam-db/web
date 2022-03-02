@@ -13,9 +13,7 @@ title: Rádi cvičíme a vzděláváme se
 
 ![](/images/uploads/baner_hormonalka-3-.jpg)
 
-![]()
-
-![](/images/uploads/konverzace_aj-1-.jpg)
+![](/images/uploads/den_zdravi_new-72-24-in-.jpg)
 
 ![](/images/uploads/prvni_pomoc-1-.jpg)
 
