@@ -1,6 +1,6 @@
 ---
 title: Jak na chytrý telefon a tablet?
-weight: 5
+weight: 2
 ---
 Na seminář se objednávejte telefonicky nebo e-mailem.
 
