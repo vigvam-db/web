@@ -1,7 +1,7 @@
 ---
-title: Jak na chytrý telefon a tablet?
+title: Veselé Velikonoce
 weight: 2
 ---
-Na seminář se objednávejte telefonicky nebo e-mailem.
 
-![](/images/uploads/senior_pc-72-24-in-.jpg)
+
+![](/images/uploads/zkousky_nanecisto-72-24-in-2-.jpg)
