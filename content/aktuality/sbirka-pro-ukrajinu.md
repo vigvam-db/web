@@ -1,6 +1,6 @@
 ---
 title: Pro uprchlíky
-weight: 2
+weight: 4
 ---
 ![](/images/uploads/banery_ukrajina-7-.jpg)
 
