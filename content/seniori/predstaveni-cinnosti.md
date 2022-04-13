@@ -7,9 +7,9 @@ title: Senioři si u nás vyberou
 
 ![](/images/uploads/web_aj_senior.jpg)
 
-![](/images/uploads/face.jpg)
+![]()
 
-![](/images/uploads/den_zdravi_new-72-24-in-.jpg)
+![]()
 
 ![](/images/uploads/baner_hormonalka-3-.jpg)
 
@@ -17,7 +17,7 @@ Na hudební akci a seminář "Jak na telefon a tablet" je nutné se objednat na 
 
 ![](/images/uploads/seniori_2022_baner.jpg)
 
-![](/images/uploads/senior_pc-72-24-in-.jpg)
+![]()
 
 ![](/images/uploads/baner_pamet_vig-1-.jpg)
 
