@@ -71,6 +71,15 @@ collections:
       #   fields:
       #     - {label: "Nadpis", name: "title", widget: "string"}
       #     - {label: "Text", name: "body", widget: "markdown"}
+  - name: "ukrajina" # Used in routes, ie.: /admin/collections/:slug/edit
+    label: "Ukrajina" # Used in the UI, ie.: "New Post"
+    files:
+      - file: "content/ukrajina/predstaveni-cinnosti.md"
+        label: "Představení činnosti"
+        name: "predstaveni-cinnosti"
+        fields:
+          - {label: "Nadpis", name: "title", widget: "string"}
+          - {label: "Text", name: "body", widget: "markdown"}
   - name: "o-nas" # Used in routes, ie.: /admin/collections/:slug/edit
     label: "O nás" # Used in the UI, ie.: "New Post"
     files:
