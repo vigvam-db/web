@@ -17,4 +17,4 @@ VIGVAM та Centrum Břežánek допомагають біженцям з Ук�
 
 ![](/images/uploads/banery_ukrajina.jpg)
 
-![](/images/uploads/banery_ukrajina-1-.jpg)
+![](/images/uploads/banery_ukrajina.jpg)
