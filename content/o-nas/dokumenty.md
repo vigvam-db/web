@@ -7,6 +7,7 @@ title: Dokumenty
 
 **Výroční zprávy**
 
+[2021](/docs/VZ_VIGVAM_2021.pdf)\
 [2020](/docs/VZ_VIGVAM_2020.pdf)\
 [2019](/docs/VZ_VIGVAM_2019.pdf)\
 [2018](/docs/VZ_VIGVAM_2018.pdf)\
