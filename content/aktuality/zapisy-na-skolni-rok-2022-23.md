@@ -6,4 +6,4 @@ Termíny posledních lekcí kurzů naleznete v [rezervačním systému](https://
 Naši stávající klienti budou mít možnost se přednostně zapsat do našich kurzů ve školním roce 2022/23. Podrobnosti obdržíte e- mailem.\
 Těšíme se na vás:-)
 
-![](/images/uploads/zapisy_22_23-72-24-in-.png)
+![](/images/uploads/web_b_banery_-72-24-in-1-.jpg)
