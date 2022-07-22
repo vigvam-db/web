@@ -3,13 +3,22 @@ title: Senioři si u nás vyberou
 ---
 ![](/images/uploads/senior_web-1-.jpg)
 
-**Projekty pro seniory**
+**Projekty pro seniory**\
+Hlavními cíli projektů pro seniory je podpora aktivního seniorského života, posilování vzájemných vztahů
+sdílení společných hodnot, podpora aktivního stárnutí občanů a zjištění potřeb místních seniorů.
+Pomáme  seniorům nebýt sami. \
+\
+Projekty  NF Tesco\
+10. kolo projektu Vy rozhodujete, my pomáháme\
+Z finanční podpory nadace jsme pořídili vybavení pro realizaci našich aktivit pro seniory.\
+ \
+11. kolo projektu Vy rozhodujete, my pomáháme \
+[ZDE](https://itesco.cz/pomahame/project/44281/) se dozvíte podrobné informace o projektu. \
+Hlasoat pro náš projekt můžete v prodejně Tesco v Dolních Břežanech do 7.8.2022.
 
 Projekt je podpořen Nadací rozvoje občanské společnosti z programu Vy rozhodujete, my pomáháme.
 
 ![](/images/uploads/nadacni-fond-tesco-2019-logo-vertical-cz1024_1.jpg)
-
-
 
 **Na  naše kurzy, workshopy a akce se můžete přihlásit v našem [rezervačním systému](https://vigvam.webooker.eu/).**
 
