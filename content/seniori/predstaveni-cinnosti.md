@@ -18,23 +18,15 @@ Projekt je podpořen Nadací rozvoje občanské společnosti z programu Vy rozho
 
 ![](/images/uploads/banery_vigvam.jpg)
 
-![]()
-
-**Na  naše kurzy, workshopy a akce se můžete přihlásit v našem [rezervačním systému](https://vigvam.webooker.eu/).**
+**Na  naše kurzy, workshopy a akce se můžete přihlásit v [rezervačním systému](https://vigvam.webooker.eu/).**
 
 ![](/images/uploads/web_aj_senior.jpg)
 
 ![]()
 
-![]()
 
-![](/images/uploads/baner_hormonalka-3-.jpg)
 
-Na hudební akci a seminář "Jak na telefon a tablet" je nutné se objednat na tel čísle 773 619 100 ve všední dny 10-15h.
 
-![](/images/uploads/seniori_2022_baner.jpg)
-
-![]()
 
 ![](/images/uploads/baner_pamet_vig-1-.jpg)
 
