@@ -3,7 +3,7 @@ title: Senioři si u nás vyberou
 ---
 ![](/images/uploads/senior_web-1-.jpg)
 
-![](/images/uploads/banery_vigvam-1-.jpg)
+![](/images/uploads/banery_vigvam-2-.jpg)
 
 \
 Projekty  NF Tesco
