@@ -8,7 +8,7 @@ Hlavními cíli projektů pro seniory je podpora aktivního seniorského života
 sdílení společných hodnot, podpora aktivního stárnutí občanů a zjištění potřeb místních seniorů.
 Pomáme  seniorům nebýt sami. \
 \
-Projekty  NF Tesco\
+Projekty  NF Tesco
 
 10. kolo projektu Vy rozhodujete, my pomáháme\
     Z finanční podpory nadace jsme pořídili vybavení pro realizaci našich aktivit pro seniory.
