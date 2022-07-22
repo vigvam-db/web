@@ -3,7 +3,15 @@ title: Senioři si u nás vyberou
 ---
 ![](/images/uploads/senior_web-1-.jpg)
 
-**Na všechny naše kurzy, workshopy a akce se můžete přihlásit v našem [rezervačním systému](https://vigvam.webooker.eu/).**
+**Projekty pro seniory**
+
+Projekt je podpořen Nadací rozvoje občanské společnosti z programu Vy rozhodujete, my pomáháme.
+
+![](/images/uploads/nadacni-fond-tesco-2019-logo-vertical-cz1024_1.jpg)
+
+
+
+**Na  naše kurzy, workshopy a akce se můžete přihlásit v našem [rezervačním systému](https://vigvam.webooker.eu/).**
 
 ![](/images/uploads/web_aj_senior.jpg)
 
