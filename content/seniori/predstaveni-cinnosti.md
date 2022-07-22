@@ -24,15 +24,11 @@ Projekt je podpořen Nadací rozvoje občanské společnosti z programu Vy rozho
 
 ![]()
 
-
-
-
-
 ![](/images/uploads/baner_pamet_vig-1-.jpg)
 
-Sešity tréninků paměti vychází  vždy 1x za dva měsíce.   [Objednat](https://vigvam.webooker.eu/Actions) můžete  také předplatné za zvýhodněnou cenu. O každém novém vydání všechny předplatile informujeme.  Na předání se vždy domluvíme:-)
-
-![](/images/uploads/0001-22-.jpg)
+Sešity tréninků paměti vychází  vždy 1x za dva měsíce.   [Objednat](https://vigvam.webooker.eu/Actions) můžete  také předplatné za zvýhodněnou cenu. O každém novém vydání všechny předplatile informujeme.  Na předání se vždy domluvíme:-)\
+\
+Služby obce Dolní Břežany pro seniory naleznete [ZDE](https://www.dolnibrezany.cz/socialni%2Dzabezpeceni/ms-16432/p1=16432).
 
 Ukázka zajímavých tipů pro seniory:
 
