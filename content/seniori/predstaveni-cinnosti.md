@@ -9,14 +9,16 @@ sdílení společných hodnot, podpora aktivního stárnutí občanů a zjiště
 Pomáme  seniorům nebýt sami. \
 \
 Projekty  NF Tesco\
+
 10. kolo projektu Vy rozhodujete, my pomáháme\
-Z finanční podpory nadace jsme pořídili vybavení pro realizaci našich aktivit pro seniory.\
- \
+    Z finanční podpory nadace jsme pořídili vybavení pro realizaci našich aktivit pro seniory.
 11. kolo projektu Vy rozhodujete, my pomáháme \
-[ZDE](https://itesco.cz/pomahame/project/44281/) se dozvíte podrobné informace o projektu. \
-Hlasoat pro náš projekt můžete v prodejně Tesco v Dolních Břežanech do 7.8.2022.
+    [ZDE](https://itesco.cz/pomahame/project/44281/) se dozvíte podrobné informace o projektu. \
+    Hlasoat pro náš projekt můžete v prodejně Tesco v Dolních Břežanech do 7.8.2022.
 
 Projekt je podpořen Nadací rozvoje občanské společnosti z programu Vy rozhodujete, my pomáháme.
+
+![](/images/uploads/nros_cmyk_logo.jpg)
 
 ![](/images/uploads/nadacni-fond-tesco-2019-logo-vertical-cz1024_1.jpg)
 
