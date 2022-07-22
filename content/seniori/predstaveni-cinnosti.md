@@ -16,7 +16,7 @@ Projekty  NF Tesco
 
 Projekt je podpořen Nadací rozvoje občanské společnosti z programu Vy rozhodujete, my pomáháme.
 
-![](/images/uploads/banery_vigvam.jpg)
+![](/images/uploads/tesco.jpg)
 
 **Na  naše kurzy, workshopy a akce se můžete přihlásit v [rezervačním systému](https://vigvam.webooker.eu/).**
 
