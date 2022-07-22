@@ -3,10 +3,8 @@ title: Senioři si u nás vyberou
 ---
 ![](/images/uploads/senior_web-1-.jpg)
 
-**Projekty pro seniory**\
-Hlavními cíli projektů pro seniory je podpora aktivního seniorského života, posilování vzájemných vztahů
-sdílení společných hodnot, podpora aktivního stárnutí občanů a zjištění potřeb místních seniorů.
-Pomáme  seniorům nebýt sami. \
+![](/images/uploads/banery_vigvam-1-.jpg)
+
 \
 Projekty  NF Tesco
 
