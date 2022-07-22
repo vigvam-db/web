@@ -1,7 +1,7 @@
 ---
 title: Senioři si u nás vyberou
 ---
-![](/images/uploads/senior_web-1-.jpg)
+![](/images/uploads/senior_web.jpg)
 
 ![](/images/uploads/banery_vigvam-3-.jpg)
 
