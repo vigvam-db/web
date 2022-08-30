@@ -11,4 +11,4 @@ VIGVAM та Centrum Břežánek допомагають біженцям з Ук�
 Рекомендуємо [інформацію для біженців](https://dolnibrezany.cz/pomoc%2Dukrajine/d-19172) у селі Dolní Břežany.
 У вас є які-небудь питання? Напишіть нам на: [vigvamdb@gmail.com](mailto:vigvamdb@gmail.com).
 
-![](/images/uploads/kurzy_vig_22_23-8-.jpg)
+![](/images/uploads/kurzy_vig_22_23-9-.jpg)
