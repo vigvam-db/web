@@ -3,6 +3,8 @@ title: Senioři si u nás vyberou
 ---
 ![](/images/uploads/senior_web.jpg)
 
+![](/images/uploads/cimbal.jpg)
+
 ![](/images/uploads/banery_vigvam-3-.jpg)
 
 \
