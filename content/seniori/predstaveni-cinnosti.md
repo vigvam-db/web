@@ -5,14 +5,16 @@ title: Senioři si u nás vyberou
 
 ![](/images/uploads/cimbal.jpg)
 
-**Na  naše kurzy, workshopy a akce se můžete přihlásit v [rezervačním systému](https://vigvam.webooker.eu/).** \
+**Na  naše kurzy, workshopy a akce se můžete přihlásit v [rezervačním systému](https://vigvam.webooker.eu/), nevíte si rady? Zavolejte nám.** \
 Služby obce Dolní Břežany pro seniory naleznete [ZDE](https://www.dolnibrezany.cz/socialni%2Dzabezpeceni/ms-16432/p1=16432).
 
 ![](/images/uploads/akce_senior.jpg)
 
+Kurz Trénink paměti pro seniory probíha vžzy v úterý od 10,30h.
+
 ![](/images/uploads/web_aj_senior.jpg)
 
-
+![](/images/uploads/pamet.jpg)
 
 ![](/images/uploads/banery_vigvam-3-.jpg)
 
