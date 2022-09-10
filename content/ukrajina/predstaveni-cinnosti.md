@@ -12,3 +12,5 @@ VIGVAM та Centrum Břežánek допомагають біженцям з Ук�
 У вас є які-небудь питання? Напишіть нам на: [vigvamdb@gmail.com](mailto:vigvamdb@gmail.com).
 
 ![](/images/uploads/kurzy_vig_22_23-9-.jpg)
+
+![](/images/uploads/kurzy_vig_22_23-12-.jpg)
