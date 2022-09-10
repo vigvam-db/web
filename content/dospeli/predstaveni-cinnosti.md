@@ -3,7 +3,9 @@ title: Rádi cvičíme a vzděláváme se
 ---
 ![](/images/uploads/dosp_web.jpg)
 
-**Na všechny naše kurzy, workshopy a  akce se můžete přihlásit v našem [rezervačním systému](https://vigvam.webooker.eu/).**
+**Na všechny naše kurzy, workshopy, semináře a akce se můžete přihlásit v našem [rezervačním systému](https://vigvam.webooker.eu/).**
+
+![](/images/uploads/seminare_zeny.jpg)
 
 ![](/images/uploads/cviceni_nabidka.jpg)
 
