@@ -13,4 +13,4 @@ VIGVAM та Centrum Břežánek допомагають біженцям з Ук�
 
 ![](/images/uploads/kurzy_vig_22_23-9-.jpg)
 
-![](/images/uploads/kurzy_vig_22_23-12-.jpg)
+![](/images/uploads/kurzy_vig_22_23-7-.jpg)
