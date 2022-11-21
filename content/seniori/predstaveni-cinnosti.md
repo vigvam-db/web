@@ -10,6 +10,8 @@ Služby obce Dolní Břežany pro seniory naleznete [ZDE](https://www.dolnibreza
 
 ![](/images/uploads/akce_senior.jpg)
 
+
+
 ![](/images/uploads/web_aj_senior.jpg)
 
 Kurz Trénink paměti pro seniory probíha 1x za 14 dní v úterý od 10,30h. \
