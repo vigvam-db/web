@@ -19,7 +19,6 @@ Termíny: 27.9., 11.10., 25.10., 8.11., 22.11., 6.12., 20.12. Je možné se při
 
 ![](/images/uploads/banery_vigvam-3-.jpg)
 
-\
 Projekty  NF Tesco
 
 10. kolo projektu Vy rozhodujete, my pomáháme\
