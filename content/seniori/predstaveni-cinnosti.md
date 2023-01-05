@@ -1,7 +1,11 @@
 ---
 title: Senioři si u nás vyberou
 ---
+
+
 ![](/images/uploads/senior_web.jpg)
+
+Těšit se můžete na písně od M. Tučného,W. Matušky, P. Bobka a dalších...Občerstvení zajištěno
 
 ![](/images/uploads/country.jpg)
 
