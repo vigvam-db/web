@@ -1,7 +1,7 @@
 ---
-title: NOVINKY pro dospělé
+title: Novinka od února
 weight: 5
 ---
 ![](/images/uploads/tabata.jpg)
 
-![](/images/uploads/aj_dosp.jpg)
+![]()
