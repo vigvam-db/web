@@ -1,6 +1,6 @@
 ---
 title: Novinka od února
-weight: 4
+weight: 5
 ---
 ![](/images/uploads/tabata.jpg)
 
