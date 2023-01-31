@@ -6,3 +6,5 @@ Již k nám na kurz chodíte a chcete pokračovat i v 2. pololetí, zapíšeme v
 Chodíte k nám a v 2.pololetí chcete vyzkoušet jiný kurz, zapsat se můžete přednostně od 9.1.
 
 ![](/images/uploads/zapisy_2.jpg)
+
+![](/images/uploads/banery_vigvam-4-.jpg)
