@@ -1,6 +1,6 @@
 ---
 title: Bezpečný domov
-weight: 3
+weight: 5
 ---
 Skvělý lektor, plno tipů, nenechte si náš nový seminář ujít. [Rezervace](https://vigvam.webooker.eu/) již nyní.
 
