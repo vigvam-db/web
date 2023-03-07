@@ -1,6 +1,6 @@
 ---
 title: První pomoc
-weight: 4
+weight: 5
 ---
 **Pro velký zájem o kurz, přidáváme další termín.** \
 Jak správně poskytnout první pomoc dítěti nebo dospělému?\
