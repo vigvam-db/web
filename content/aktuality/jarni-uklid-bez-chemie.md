@@ -1,8 +1,7 @@
 ---
-title: Jarní úklid bez chemie
-weight: 2
+title: Šijeme tričko
+weight: 4
 ---
-Dozvíte se, jak snadno, v klidu a levně nahradíte chemické přípravky za čistě přírodní a opravdu
-funkční a vyrobíte si univerzální čistící prostředek. [Registrace](https://www.vigvam-db.cz) již nyní.
+Tipy a triky,  tvorba střihu,  šicí stroje k dispozici, krejčovské pomůcky na místě,  látka vlastní, sleva na nákup v eshopu.[ Registrace](https://vigvam.webooker.eu/Actions) již nyní.
 
-![](/images/uploads/uklid.jpg)
+![](/images/uploads/banery_vigvam-12-.jpg)
