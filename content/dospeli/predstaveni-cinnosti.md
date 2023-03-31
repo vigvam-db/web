@@ -5,12 +5,12 @@ title: Rádi cvičíme a vzděláváme se
 
 **Na všechny naše kurzy, workshopy, semináře a akce se můžete přihlásit v našem [rezervačním systému](https://vigvam.webooker.eu/).**
 
-![](/images/uploads/seminare_zeny.jpg)
+![](/images/uploads/banery_vigvam-12-.jpg)
 
 ![](/images/uploads/cviceni_nabidka.jpg)
 
-![](/images/uploads/poporodni_cviceni.jpg)
+![](/images/uploads/banery_vigvam-10-.jpg)
 
 ![](/images/uploads/pilates.jpg)
 
-![](/images/uploads/baner_francouzstina-1-.jpg)
+![](/images/uploads/banery_vigvam-8-.jpg)
