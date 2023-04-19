@@ -1,5 +1,5 @@
 ---
-title: Mediátorka pro rosinu
+title: Mediátorka pro rodinu
 weight: 8
 ---
 "Zdravé“ a funkční mezilidské vztahy jsou tím nejcennějším, co v životě máme.
