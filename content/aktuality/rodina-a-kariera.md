@@ -1,8 +1,9 @@
 ---
-title: Rodina a kariéra
-weight: 3
+title: Mediátorka pro rosinu
+weight: 7
 ---
-Dá se vůbec sladit práce a rodina a najít tolik potřebná rovnováha? Máme pro vás dobrou zprávu. Dá :-)\
-[Regustrujte](https://vigvam.webooker.eu/) se na náš jedinečný seminář.
+"Zdravé“ a funkční mezilidské vztahy jsou tím nejcennějším, co v životě máme.
 
-![](/images/uploads/banery_vigvam-10-.jpg)
+[Regustrujte](https://vigvam.webooker.eu/) se na individuální konzultaci.
+
+![](/images/uploads/vigvam_akce_kurzy_21_22-8-.jpg)
