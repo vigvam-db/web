@@ -1,6 +1,6 @@
 ---
 title: Mediátorka pro rosinu
-weight: 7
+weight: 8
 ---
 "Zdravé“ a funkční mezilidské vztahy jsou tím nejcennějším, co v životě máme.
 
