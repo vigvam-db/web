@@ -1,8 +1,6 @@
 ---
 title: Senioři si u nás vyberou
 ---
-
-
 ![](/images/uploads/senior_web.jpg)
 
 Těšit se můžete na písně od M. Tučného,W. Matušky, P. Bobka a dalších...Občerstvení zajištěno
@@ -16,6 +14,10 @@ Kurz Trénink paměti pro seniory probíha 1x za 14 dní v úterý od 10,30h. \
 Termíny: 3.1., 17.1., 31.1., 21.2., 7.3., 21.3.., 4.4., 18.4., 2.5., 16.5., 30.5., 13.6. 2023 Je možné se přihlásit na celý kurz nebo na jednotlivé lekce. 
 
 ![](/images/uploads/pamet.jpg)
+
+![](/images/uploads/vigvam_akce_kurzy_21_22-9-.jpg)
+
+![](/images/uploads/vigvam_akce_kurzy_21_22-12-.jpg)
 
 ![](/images/uploads/banery_vigvam-3-.jpg)
 
