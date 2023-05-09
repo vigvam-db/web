@@ -3,10 +3,6 @@ title: Senioři si u nás vyberou
 ---
 ![](/images/uploads/senior_web.jpg)
 
-Těšit se můžete na písně od M. Tučného,W. Matušky, P. Bobka a dalších...Občerstvení zajištěno
-
-![](/images/uploads/country.jpg)
-
 **Na  naše kurzy, workshopy a akce se můžete přihlásit v [rezervačním systému](https://vigvam.webooker.eu/), nevíte si rady? Zavolejte nám.** \
 Služby obce Dolní Břežany pro seniory naleznete [ZDE](https://www.dolnibrezany.cz/socialni%2Dzabezpeceni/ms-16432/p1=16432).
 
